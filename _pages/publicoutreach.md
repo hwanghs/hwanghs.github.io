@@ -55,5 +55,6 @@ nav_order:
 * [DESI Science Webpage Korean version](https://www.desi.lbl.gov/kr-science/) ([KASI Facebook posting](https://www.facebook.com/kasipr/photos/a.499978350139206/1963428433794183/?type=3&theater), Sept. 17, 2020)
 
 **Other news**
-
+* [제3회 한국과학기자협회-YKAST 포럼: 우주 개척을 위한 대한민국 기술개발의 현재와 미래 - 한국형 우주 망원경 개발 현황 및 전망 (2023.11.02)](https://mobile.newsis.com/view.html?ar_id=NISX20231102_0002506772)
+* 젊은 연구자들이 생각하는 국가과학기술 혁신 촉진 방안 (2023.8.25) [[영 상]](https://www.youtube.com/watch?v=TlHmekhtmjY)
 * [과학·예술 융복합 전시 프로젝트 'The Origin' 개최](https://www.discoverynews.kr/news/articleView.html?idxno=1029155) (2023년 7월 5일 뉴스)
