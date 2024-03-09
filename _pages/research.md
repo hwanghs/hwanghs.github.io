@@ -5,7 +5,8 @@ title: Research / 연구
 nav: true
 nav_order: 3
 ---
-**외부은하와 우주론 연구실 소개 **: [연구뭐하지?] 가장 오래된 학문이자 가장 최첨단의 학문[외부은하와 우주론 연구실](https://www.youtube.com/watch?v=KOD9n36L3ok)
+**외부은하와 우주론 연구실 소개**: 
+* [연구뭐하지?] 가장 오래된 학문이자 가장 최첨단의 학문[외부은하와 우주론 연구실](https://www.youtube.com/watch?v=KOD9n36L3ok)
 
 **Large Scale Structures / 우주 거대 구조**
 
