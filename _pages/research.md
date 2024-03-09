@@ -30,6 +30,8 @@ nav_order: 3
 
 **Galaxy Formation and Evolution**
 
+* [시민과 함께 과학 - 은하 분류 프로젝트 (2024년 2월 5일, 고등과학원)](https://www.kias.re.kr/kias/bbs/B0000029/view.do?nttId=1411&menuNo=406005&lang=ko)
+  
 * [Study of distant galaxies challenges our understanding of how stars form (Jan. 19, 2018)](https://theconversation.com/study-of-distant-galaxies-challenges-our-understanding-of-how-stars-form-90147)
 
 * [Mining Data Archives Yields Haul of "Red Nuggets" (Jun. 11, 2014)](http://www.cfa.harvard.edu/news/2014-15)
