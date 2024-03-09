@@ -9,6 +9,7 @@ nav_order: 3
 **Large Scale Structures / 우주 거대 구조**
 
 * [Mapping the local cosmic web (May 26, 2021, from PSU)](https://www.psu.edu/news/research/story/mapping-local-cosmic-web/)
+  
 * [인공 지능이 그린 우리은하 주변 암흑물질 지도 (2021년 5월 27일, 한국천문연구원)](https://www.kasi.re.kr/kor/publication/post/newsMaterial/28759 )
 
 * [The KIAS Multiverse Cosmological Simulation](https://ui.adsabs.harvard.edu/abs/2019arXiv190307626H/abstract) : [Cover image of The Bulletin of the Korean Astronomical Society](https://astro.kias.re.kr/%7Ehshwang/images/BKAS2018_43_2.png)
@@ -24,6 +25,7 @@ nav_order: 3
 **Observational Cosmology**
 
 * [Observation indicates that the Accelerated Expansion of the Universe is Driven by a Form of Quintessence! (Aug. 4, 2023 from KIAS)](https://www.kias.re.kr/kias/bbs/B0000029/view.do?nttId=1353&menuNo=406005&pageIndex=1&lang=en)
+  
 * [우주를 가속 팽창시키는 암흑에너지는 “제5원소”이다? (2023년 8월 4일, 고등과학원)](https://www.kias.re.kr/kias/bbs/B0000029/view.do?nttId=1353&menuNo=406005&pageIndex=1&lang=ko)
 
 **Galaxy Formation and Evolution**
