@@ -38,11 +38,11 @@ nav_order: 2
 ### 2024:
 
 196\. A large population of strongly lensed faint submillimetre galaxies in future dark energy surveys inferred from JWST imaging,  
-&nbsp;&nbsp;&nbsp;Pearson, J., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;Pearson, J., et al.(<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;[2023, MNRAS, 527, 10044](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.12044/abstract)
 
 195\. Understanding the Formation and Evolution of Dark Galaxies in a Simulated Universe,  
-&nbsp;&nbsp;&nbsp;Lee, G., <u>Hwang, H. S.</u>), et al.,  
+&nbsp;&nbsp;&nbsp;Lee, G., <u>Hwang, H. S.</u>, et al.,  
 &nbsp;&nbsp;&nbsp;[2024, ApJ, 962, 129](https://ui.adsabs.harvard.edu/abs/2024ApJ...962..129L/abstract)
 
 194\. The One-hundred-deg^2 DECam Imaging in Narrowbands (ODIN): Survey Design and Science Goals,  
@@ -56,7 +56,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;[2023, MNRAS, 525, 4685](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4685S/abstract)
 
 192\. New method to revisit the gravitational lensing analysis of the Bullet Cluster using radio waves,  
-&nbsp;&nbsp;&nbsp;Yoon, Y., Park, J.-C., (<u>Hwang, H. S.</u>)  
+&nbsp;&nbsp;&nbsp;Yoon, Y., Park, J.-C., <u>Hwang, H. S.</u>  
 &nbsp;&nbsp;&nbsp;[2023, JCAP, 09, 044](https://ui.adsabs.harvard.edu/abs/2023JCAP...09..044Y/abstract)
 
 191\. Tomographic Alcock-Paczyński Test with Redshift-space Correlation Function: Evidence for the Dark Energy Equation-of-state Parameter w > -1,  
