@@ -5,7 +5,7 @@ title: Awards / 수상 내역
 nav: false
 nav_order: 
 ---
-* [2023 SNU College of Natural Science Excellent Lecture Award (2023학년도 자연과학대학 우수강의상) (Sept. 8, 2023) [Korean]](https://astron.snu.ac.kr/category/board-3-bl-8piv9u51-20211029154329/)
+* [2023 SNU College of Natural Science Excellent Lecture Award (2023학년도 자연과학대학 우수강의상) (Sept. 8, 2023) [Korean]](https://astron.snu.ac.kr/category/board-3-bl-8piv9u51-20211029154329/)
 
 * [Elected Member of Young Korean Academy of Science and Technology (Y-KAST, 한국차세대과학기술한림원 회원 선출) (Dec. 9, 2020) [Korean]](http://m.dongascience.donga.com/news/view/42212)
 
