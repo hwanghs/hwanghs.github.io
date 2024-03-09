@@ -16,7 +16,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;2023, ApJ, submitted [(arXiv:2312.04899)](https://ui.adsabs.harvard.edu/abs/2023arXiv231204899L/abstract)
 
 201\. ODIN: Improved Narrowband Lyα Emitter Selection Techniques for z= 2.4, 3.1, and 4.5,  
-&nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), 
+&nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2023, ApJ, submitted [(arXiv:2312.16075)](https://ui.adsabs.harvard.edu/abs/2023arXiv231216075F/abstract)
 
 200\. A Deep Redshift Survey of the Perseus Cluster: Spatial Distribution and Kinematics of Galaxies,  
@@ -28,7 +28,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;2023, ApJS, submitted
 
 198\. Effects of galaxy environment on merger fraction,  
-&nbsp;&nbsp;&nbsp;Pearson, W.J., et al. (<u>Hwang, H. S.</u>),
+&nbsp;&nbsp;&nbsp;Pearson, W.J., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2023, A&A, submitted
 
 197\. UPCluster-SZ: The Updated Catalog of Galaxy Clusters from the List of Planck Sunyaev-Zeldovich Sources,  
