@@ -6,26 +6,48 @@ nav: true
 nav_order: 2
 ---
 
-**Refereed Publications: 197 in total**  
-**(4 submitted, 18 as first author, 32 as second author, and 143 as co-author)**
+**Refereed Publications: 202 in total**  
+**(5 submitted, 18 as first author, 34 as second author, and 145 as co-author)**
 
 ### Recent Papers:
 
+202\. Morphology of Galaxies in JWST Fields: Initial distribution and Evolution of Galaxy Morphology,  
+&nbsp;&nbsp;&nbsp;Lee, J. H, Park, C., <u>Hwang, H. S.</u>, Kwon, M.,  
+&nbsp;&nbsp;&nbsp;2023, ApJ, submitted[(arXiv:2312.04899)](https://ui.adsabs.harvard.edu/abs/2023arXiv231204899L/abstract)
+
+201\. ODIN: Improved Narrowband Lyα Emitter Selection Techniques for z= 2.4, 3.1, and 4.5,  
+&nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), 
+&nbsp;&nbsp;&nbsp;2023, ApJ, submitted[(arXiv:2312.16075)](https://ui.adsabs.harvard.edu/abs/2023arXiv231216075F/abstract)
+
+200\. A Deep Redshift Survey of the Perseus Cluster: Spatial Distribution and Kinematics of Galaxies,  
+&nbsp;&nbsp;&nbsp;Kang, W., <u>Hwang, H. S.</u> et al.,  
+&nbsp;&nbsp;&nbsp;2023, ApJS, submitted
+
+199\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  
+&nbsp;&nbsp;&nbsp;Kim, T., <u>Hwang, H. S.</u>, et al.,  
+&nbsp;&nbsp;&nbsp;2023, ApJS, submitted
+
+198\. Effects of galaxy environment on merger fraction,  
+&nbsp;&nbsp;&nbsp;Pearson, W.J., et al. (<u>Hwang, H. S.</u>), 
+&nbsp;&nbsp;&nbsp;2023, A&A, submitted
+
 197\. UPCluster-SZ: The Updated Catalog of Galaxy Clusters from the List of Planck Sunyaev-Zeldovich Sources,  
 &nbsp;&nbsp;&nbsp;Bahk, H., <u>Hwang, H. S.</u>,  
-&nbsp;&nbsp;&nbsp;2023, ApJS, submitted
+&nbsp;&nbsp;&nbsp;2023, ApJS, in press [(arXiv:2403.03818)](https://ui.adsabs.harvard.edu/abs/2024arXiv240303818B/abstract)
 
-196\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  
-&nbsp;&nbsp;&nbsp;Kim, T., <u>Hwang, H. S.</u>, et al,  
-&nbsp;&nbsp;&nbsp;2023, ApJS, submitted
+### 2024:
 
-195\. The One-hundred-deg^2 DECam Imaging in Narrowbands (ODIN): Survey Design and Science Goals,  
-&nbsp;&nbsp;&nbsp;Lee, K.-S., et al. (<u>Hwang, H. S.</u>),  
-&nbsp;&nbsp;&nbsp;2023, ApJ, submitted [(arXiv:2309.10191)](https://ui.adsabs.harvard.edu/abs/2024ApJ...962...36L/abstract)
-
-194\. A large population of strongly lensed faint submillimetre galaxies in future dark energy surveys inferred from JWST imaging,  
+196\. A large population of strongly lensed faint submillimetre galaxies in future dark energy surveys inferred from JWST imaging,  
 &nbsp;&nbsp;&nbsp;Pearson, J., et al. (<u>Hwang, H. S.</u>),  
-&nbsp;&nbsp;&nbsp;2023, MNRAS, submitted (arXiv:2309.00888)
+&nbsp;&nbsp;&nbsp;[2023, MNRAS, 527, 10044](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.12044/abstract)
+
+195\. Understanding the Formation and Evolution of Dark Galaxies in a Simulated Universe,  
+&nbsp;&nbsp;&nbsp;Lee, G., <u>Hwang, H. S.</u>), et al.,  
+&nbsp;&nbsp;&nbsp;[2024, ApJ, 962, 129](https://ui.adsabs.harvard.edu/abs/2024ApJ...962..129L/abstract)
+
+194\. The One-hundred-deg^2 DECam Imaging in Narrowbands (ODIN): Survey Design and Science Goals,  
+&nbsp;&nbsp;&nbsp;Lee, K.-S., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2024, ApJ, 962, 36](https://ui.adsabs.harvard.edu/abs/2024ApJ...962...36L/abstract)
 
 ### 2023:
 
