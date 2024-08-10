@@ -11,27 +11,27 @@ nav_order: 2
 
 ### Recent Papers:
 
-208\. Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced, 
+208\. Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced, <br>
 &nbsp;&nbsp;&nbsp;Jeong, D., (<u>Hwang, H. S.</u>), Chung, H., Yoon, Y., 
 &nbsp;&nbsp;&nbsp;2024, ApJ, submitted
 
-207\. Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations, 
+207\. Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations, <br>
 &nbsp;&nbsp;&nbsp;Lee, J.-Y., et al. (<u>Hwang, H. S.</u>), 
 &nbsp;&nbsp;&nbsp;2024, ApJ, submitted
 
-206\. Testing Lyman Alpha Emitters and Lyman-Break Galaxies as Tracers of Large-Scale Structures at High Redshifts, 
+206\. Testing Lyman Alpha Emitters and Lyman-Break Galaxies as Tracers of Large-Scale Structures at High Redshifts, <br>
 &nbsp;&nbsp;&nbsp;Im, S. H., (<u>Hwang, H. S.</u>), et al., 
 &nbsp;&nbsp;&nbsp;2024, ApJ, in press [(arXiv:2407.18602)](https://ui.adsabs.harvard.edu/abs/2024arXiv240718602I/abstract)
 
-205\. Chandra Survey in the AKARI North Ecliptic Pole Deep Field Optical/Infrared Identifications of X-ray Sources, 
+205\. Chandra Survey in the AKARI North Ecliptic Pole Deep Field Optical/Infrared Identifications of X-ray Sources, <br>
 &nbsp;&nbsp;&nbsp;Miyaji, T., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;2024, A&A, in press [(arXiv:2407.13864)](https://ui.adsabs.harvard.edu/abs/2024arXiv240713864M/abstract)
 
-204\. SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES). V. Confusion-limited Submillimeter Galaxy Number Counts at 450 μm and Data Release for the COSMOS Field,  
+204\. SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES). V. Confusion-limited Submillimeter Galaxy Number Counts at 450 μm and Data Release for the COSMOS Field,  <br>
 &nbsp;&nbsp;&nbsp;Gao, Z.-K., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;2024, ApJ, in press [(arXiv:2405.20616)](https://ui.adsabs.harvard.edu/abs/2024arXiv240520616G/abstract)
 
-203\. Direct Evidence of a Major Merger in the Perseus Cluster,  
+203\. Direct Evidence of a Major Merger in the Perseus Cluster,  <br>
 &nbsp;&nbsp;&nbsp;HyongHan, K., Jee, J., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;2024, NatAs, submitted [(arXiv:2405.00115)](https://ui.adsabs.harvard.edu/abs/2024arXiv240500115H/abstract)
 
@@ -39,7 +39,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2023, ApJ, submitted [(arXiv:2312.16075)](https://ui.adsabs.harvard.edu/abs/2023arXiv231216075F/abstract)
 
-201\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  
+201\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  <br>
 &nbsp;&nbsp;&nbsp;Kim, T., <u>Hwang, H. S.</u>, et al.,  
 &nbsp;&nbsp;&nbsp;2023, ApJS, submitted
 
@@ -49,11 +49,11 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;Pearson, W.J., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;[2024, A&A, 686, 94](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..94P/abstract)
 
-199\. A Deep Redshift Survey of the Perseus Cluster: Spatial Distribution and Kinematics of Galaxies,  
+199\. A Deep Redshift Survey of the Perseus Cluster: Spatial Distribution and Kinematics of Galaxies,  <br>
 &nbsp;&nbsp;&nbsp;Kang, W., <u>Hwang, H. S.</u> et al.,  
 &nbsp;&nbsp;&nbsp;[2024, ApJS, 272, 22](https://ui.adsabs.harvard.edu/abs/2024ApJS..272...22K/abstract)
 
-198\. UPCluster-SZ: The Updated Catalog of Galaxy Clusters from the List of Planck Sunyaev-Zeldovich Sources,  
+198\. UPCluster-SZ: The Updated Catalog of Galaxy Clusters from the List of Planck Sunyaev-Zeldovich Sources,  <br>
 &nbsp;&nbsp;&nbsp;Bahk, H., <u>Hwang, H. S.</u>,  
 &nbsp;&nbsp;&nbsp;[2024, ApJS, 272, 7](https://ui.adsabs.harvard.edu/abs/2024ApJS..272....7B/abstract)
 
@@ -61,57 +61,57 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;Lee, J. H, Park, C., <u>Hwang, H. S.</u>, Kwon, M.,  
 &nbsp;&nbsp;&nbsp;[2024, ApJ, 966, 113](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..113L/abstract)
 
-196\. A large population of strongly lensed faint submillimetre galaxies in future dark energy surveys inferred from JWST imaging,  
+196\. A large population of strongly lensed faint submillimetre galaxies in future dark energy surveys inferred from JWST imaging,  <br>
 &nbsp;&nbsp;&nbsp;Pearson, J., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;[2024, MNRAS, 527, 10044](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.12044/abstract)
 
-195\. Understanding the Formation and Evolution of Dark Galaxies in a Simulated Universe,  
+195\. Understanding the Formation and Evolution of Dark Galaxies in a Simulated Universe,  <br>
 &nbsp;&nbsp;&nbsp;Lee, G., <u>Hwang, H. S.</u>, et al.,  
 &nbsp;&nbsp;&nbsp;[2024, ApJ, 962, 129](https://ui.adsabs.harvard.edu/abs/2024ApJ...962..129L/abstract)
 
-194\. The One-hundred-deg^2 DECam Imaging in Narrowbands (ODIN): Survey Design and Science Goals,  
+194\. The One-hundred-deg^2 DECam Imaging in Narrowbands (ODIN): Survey Design and Science Goals,  <br>
 &nbsp;&nbsp;&nbsp;Lee, K.-S., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;[2024, ApJ, 962, 36](https://ui.adsabs.harvard.edu/abs/2024ApJ...962...36L/abstract)
 
 ### 2023:
 
-193\. BCG alignment with the locations of cluster members and the large-scale structure out to 10 R200,  
+193\. BCG alignment with the locations of cluster members and the large-scale structure out to 10 R200,  <br>
 &nbsp;&nbsp;&nbsp;Smith, R., et al., <u>Hwang, H. S.</u>  
 &nbsp;&nbsp;&nbsp;[2023, MNRAS, 525, 4685](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4685S/abstract)
 
-192\. New method to revisit the gravitational lensing analysis of the Bullet Cluster using radio waves,  
+192\. New method to revisit the gravitational lensing analysis of the Bullet Cluster using radio waves,  <br>
 &nbsp;&nbsp;&nbsp;Yoon, Y., Park, J.-C., <u>Hwang, H. S.</u>  
 &nbsp;&nbsp;&nbsp;[2023, JCAP, 09, 044](https://ui.adsabs.harvard.edu/abs/2023JCAP...09..044Y/abstract)
 
-191\. Tomographic Alcock-Paczyński Test with Redshift-space Correlation Function: Evidence for the Dark Energy Equation-of-state Parameter w > -1,  
+191\. Tomographic Alcock-Paczyński Test with Redshift-space Correlation Function: Evidence for the Dark Energy Equation-of-state Parameter w > -1,  <br>
 &nbsp;&nbsp;&nbsp;Dong, F., et al. , (<u>Hwang, H. S.</u>)  
 &nbsp;&nbsp;&nbsp;[2023, ApJ, 953, 98](https://ui.adsabs.harvard.edu/abs/2023ApJ...953...98D/abstract)
 
-190\. The Origin of Star Formation in Early-type Galaxies Inferred from Spatially Resolved Spectroscopy,  
+190\. The Origin of Star Formation in Early-type Galaxies Inferred from Spatially Resolved Spectroscopy,  <br>
 &nbsp;&nbsp;&nbsp;Lee, Y. H., <u>Hwang, H. S.</u>, et al.,  
 &nbsp;&nbsp;&nbsp;[2023, ApJ, 953, 88](https://ui.adsabs.harvard.edu/abs/2023ApJ...953...88L/abstract)
 
-189\. ODIN: Where Do Lyman-alpha Blobs Live? Contextualizing Blob Environments within the Large-Scale Structure,  
+189\. ODIN: Where Do Lyman-alpha Blobs Live? Contextualizing Blob Environments within the Large-Scale Structure,  <br>
 &nbsp;&nbsp;&nbsp;Ramakrishnan, V., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;[2023, ApJ, 951, 119](https://ui.adsabs.harvard.edu/abs/2023ApJ...951..119R/abstract)
 
-188\. The SCUBA-2 Large eXtragalactic Survey: 850μm map, catalogue and the bright-end number counts of the XMM-LSS field,  
+188\. The SCUBA-2 Large eXtragalactic Survey: 850μm map, catalogue and the bright-end number counts of the XMM-LSS field,  <br>
 &nbsp;&nbsp;&nbsp;Garratt, T., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;[2023, MNRAS, 520, 3669](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.3669G/abstract)
 
-187\. HectoMAP: The Complete Redshift Survey (Data Release 2),  
+187\. HectoMAP: The Complete Redshift Survey (Data Release 2),  <br>
 &nbsp;&nbsp;&nbsp;Sohn, J., Geller, M., <u>Hwang, H. S.</u>, et al.,  
 &nbsp;&nbsp;&nbsp;[2023, ApJ, 945, 94](https://ui.adsabs.harvard.edu/abs/2023ApJ...945...94S/abstract)
 
-186\. Metallicity-PAH Relation of MIR-selected Star-forming Galaxies in AKARI North Ecliptic Pole-wide Survey,  
+186\. Metallicity-PAH Relation of MIR-selected Star-forming Galaxies in AKARI North Ecliptic Pole-wide Survey,  <br>
 &nbsp;&nbsp;&nbsp;Shim, H., <u>Hwang, H. S.</u>, et al.,  
 &nbsp;&nbsp;&nbsp;[2023, AJ, 165, 31](https://ui.adsabs.harvard.edu/abs/2023AJ....165...31S/abstract)
 
-185\. Understanding Galaxy Rotation Curves with Verlinde's Emergent Gravity,  
+185\. Understanding Galaxy Rotation Curves with Verlinde's Emergent Gravity,  <br>
 &nbsp;&nbsp;&nbsp;Yoon, Y., Park, J.-C., <u>Hwang, H. S.</u>,   
 &nbsp;&nbsp;&nbsp;[2023, CQGra, 40bLT01Y](https://ui.adsabs.harvard.edu/abs/2023CQGra..40bLT01Y/abstract)
 
-184\. The DESI Survey Validation: Results from Visual Inspection of Bright Galaxies, Luminous Red Galaxies, and Emission Line Galaxies,   
+184\. The DESI Survey Validation: Results from Visual Inspection of Bright Galaxies, Luminous Red Galaxies, and Emission Line Galaxies,   <br>
 &nbsp;&nbsp;&nbsp;Lan, T.-W., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;[2023, ApJ, 943, 68](about:blank)
 
