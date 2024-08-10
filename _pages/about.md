@@ -43,3 +43,5 @@ Associate Professor, Astronomy Program, Department of Physics and Astronomy, Seo
 ## Links:
 [[SNU ExgalCos Team]](https://exgalcos.github.io/)
 [[SNU Astronomy]](https://astron.snu.ac.kr) [[KASI Galaxy Evolution Group]](https://galev.kasi.re.kr/doku.php) [[KIAS Astrophysics Group]](https://astro.kias.re.kr/)
+
+## Last Updated: August 10, 2024
