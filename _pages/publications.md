@@ -12,23 +12,23 @@ nav_order: 2
 ### Recent Papers:
 
 208\. Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced, <br>
-&nbsp;&nbsp;&nbsp;Jeong, D., (<u>Hwang, H. S.</u>), Chung, H., Yoon, Y., 
+&nbsp;&nbsp;&nbsp;Jeong, D., (<u>Hwang, H. S.</u>), Chung, H., Yoon, Y.,  <br>
 &nbsp;&nbsp;&nbsp;2024, ApJ, submitted
 
 207\. Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations, <br>
-&nbsp;&nbsp;&nbsp;Lee, J.-Y., et al. (<u>Hwang, H. S.</u>), 
+&nbsp;&nbsp;&nbsp;Lee, J.-Y., et al. (<u>Hwang, H. S.</u>),  <br>
 &nbsp;&nbsp;&nbsp;2024, ApJ, submitted
 
 206\. Testing Lyman Alpha Emitters and Lyman-Break Galaxies as Tracers of Large-Scale Structures at High Redshifts, <br>
-&nbsp;&nbsp;&nbsp;Im, S. H., (<u>Hwang, H. S.</u>), et al., 
+&nbsp;&nbsp;&nbsp;Im, S. H., (<u>Hwang, H. S.</u>), et al.,  <br>
 &nbsp;&nbsp;&nbsp;2024, ApJ, in press [(arXiv:2407.18602)](https://ui.adsabs.harvard.edu/abs/2024arXiv240718602I/abstract)
 
 205\. Chandra Survey in the AKARI North Ecliptic Pole Deep Field Optical/Infrared Identifications of X-ray Sources, <br>
-&nbsp;&nbsp;&nbsp;Miyaji, T., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;Miyaji, T., et al. (<u>Hwang, H. S.</u>),   <br>
 &nbsp;&nbsp;&nbsp;2024, A&A, in press [(arXiv:2407.13864)](https://ui.adsabs.harvard.edu/abs/2024arXiv240713864M/abstract)
 
 204\. SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES). V. Confusion-limited Submillimeter Galaxy Number Counts at 450 μm and Data Release for the COSMOS Field,  <br>
-&nbsp;&nbsp;&nbsp;Gao, Z.-K., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;Gao, Z.-K., et al. (<u>Hwang, H. S.</u>),   <br>
 &nbsp;&nbsp;&nbsp;2024, ApJ, in press [(arXiv:2405.20616)](https://ui.adsabs.harvard.edu/abs/2024arXiv240520616G/abstract)
 
 203\. Direct Evidence of a Major Merger in the Perseus Cluster,  <br>
