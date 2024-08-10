@@ -6,40 +6,64 @@ nav: true
 nav_order: 2
 ---
 
-**Refereed Publications: 202 in total**  
-**(5 submitted, 18 as first author, 34 as second author, and 145 as co-author)**
+**Refereed Publications: 208 in total**  
+**(5 submitted, 18 as first author, 36 as second author, and 149 as co-author)**
 
 ### Recent Papers:
 
-202\. Morphology of Galaxies in JWST Fields: Initial distribution and Evolution of Galaxy Morphology,  
-&nbsp;&nbsp;&nbsp;Lee, J. H, Park, C., <u>Hwang, H. S.</u>, Kwon, M.,  
-&nbsp;&nbsp;&nbsp;2023, ApJ, submitted [(arXiv:2312.04899)](https://ui.adsabs.harvard.edu/abs/2023arXiv231204899L/abstract)
+208\. Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced, 
+&nbsp;&nbsp;&nbsp;Jeong, D., (<u>Hwang, H. S.</u>), Chung, H., Yoon, Y., 
+&nbsp;&nbsp;&nbsp;2024, ApJ, submitted
 
-201\. ODIN: Improved Narrowband Lyα Emitter Selection Techniques for z= 2.4, 3.1, and 4.5,  
+207\. Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations, 
+&nbsp;&nbsp;&nbsp;Lee, J.-Y., et al. (<u>Hwang, H. S.</u>), 
+&nbsp;&nbsp;&nbsp;2024, ApJ, submitted
+
+206\. Testing Lyman Alpha Emitters and Lyman-Break Galaxies as Tracers of Large-Scale Structures at High Redshifts, 
+&nbsp;&nbsp;&nbsp;Im, S. H., (<u>Hwang, H. S.</u>), et al., 
+&nbsp;&nbsp;&nbsp;2024, ApJ, in press [(arXiv:2407.18602)](https://ui.adsabs.harvard.edu/abs/2024arXiv240718602I/abstract)
+
+205\. Chandra Survey in the AKARI North Ecliptic Pole Deep Field Optical/Infrared Identifications of X-ray Sources, 
+&nbsp;&nbsp;&nbsp;Miyaji, T., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;2024, A&A, in press [(arXiv:2407.13864)](https://ui.adsabs.harvard.edu/abs/2024arXiv240713864M/abstract)
+
+204\. SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES). V. Confusion-limited Submillimeter Galaxy Number Counts at 450 μm and Data Release for the COSMOS Field,  
+&nbsp;&nbsp;&nbsp;Gao, Z.-K., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;2024, ApJ, in press [(arXiv:2405.20616)](https://ui.adsabs.harvard.edu/abs/2024arXiv240520616G/abstract)
+
+203\. Direct Evidence of a Major Merger in the Perseus Cluster,  
+&nbsp;&nbsp;&nbsp;HyongHan, K., Jee, J., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;2024, NatAs, submitted [(arXiv:2405.00115)](https://ui.adsabs.harvard.edu/abs/2024arXiv240500115H/abstract)
+
+202\. ODIN: Improved Narrowband Lyα Emitter Selection Techniques for z= 2.4, 3.1, and 4.5,  
 &nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2023, ApJ, submitted [(arXiv:2312.16075)](https://ui.adsabs.harvard.edu/abs/2023arXiv231216075F/abstract)
 
-200\. A Deep Redshift Survey of the Perseus Cluster: Spatial Distribution and Kinematics of Galaxies,  
-&nbsp;&nbsp;&nbsp;Kang, W., <u>Hwang, H. S.</u> et al.,  
-&nbsp;&nbsp;&nbsp;2023, ApJS, submitted
-
-199\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  
+201\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  
 &nbsp;&nbsp;&nbsp;Kim, T., <u>Hwang, H. S.</u>, et al.,  
 &nbsp;&nbsp;&nbsp;2023, ApJS, submitted
 
-198\. Effects of galaxy environment on merger fraction,  
-&nbsp;&nbsp;&nbsp;Pearson, W.J., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2023, A&A, submitted
-
-197\. UPCluster-SZ: The Updated Catalog of Galaxy Clusters from the List of Planck Sunyaev-Zeldovich Sources,  
-&nbsp;&nbsp;&nbsp;Bahk, H., <u>Hwang, H. S.</u>,  
-&nbsp;&nbsp;&nbsp;2023, ApJS, in press [(arXiv:2403.03818)](https://ui.adsabs.harvard.edu/abs/2024arXiv240303818B/abstract)
-
 ### 2024:
+
+200\. Effects of galaxy environment on merger fraction,  
+&nbsp;&nbsp;&nbsp;Pearson, W.J., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;[2024, A&A, 686, 94](https://ui.adsabs.harvard.edu/abs/2024A%26A...686A..94P/abstract)
+
+199\. A Deep Redshift Survey of the Perseus Cluster: Spatial Distribution and Kinematics of Galaxies,  
+&nbsp;&nbsp;&nbsp;Kang, W., <u>Hwang, H. S.</u> et al.,  
+&nbsp;&nbsp;&nbsp;[2024, ApJS, 272, 22](https://ui.adsabs.harvard.edu/abs/2024ApJS..272...22K/abstract)
+
+198\. UPCluster-SZ: The Updated Catalog of Galaxy Clusters from the List of Planck Sunyaev-Zeldovich Sources,  
+&nbsp;&nbsp;&nbsp;Bahk, H., <u>Hwang, H. S.</u>,  
+&nbsp;&nbsp;&nbsp;[2024, ApJS, 272, 7](https://ui.adsabs.harvard.edu/abs/2024ApJS..272....7B/abstract)
+
+197\. Morphology of Galaxies in JWST Fields: Initial distribution and Evolution of Galaxy Morphology,  
+&nbsp;&nbsp;&nbsp;Lee, J. H, Park, C., <u>Hwang, H. S.</u>, Kwon, M.,  
+&nbsp;&nbsp;&nbsp;[2024, ApJ, 966, 113](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..113L/abstract)
 
 196\. A large population of strongly lensed faint submillimetre galaxies in future dark energy surveys inferred from JWST imaging,  
 &nbsp;&nbsp;&nbsp;Pearson, J., et al.(<u>Hwang, H. S.</u>),  
-&nbsp;&nbsp;&nbsp;[2023, MNRAS, 527, 10044](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.12044/abstract)
+&nbsp;&nbsp;&nbsp;[2024, MNRAS, 527, 10044](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.12044/abstract)
 
 195\. Understanding the Formation and Evolution of Dark Galaxies in a Simulated Universe,  
 &nbsp;&nbsp;&nbsp;Lee, G., <u>Hwang, H. S.</u>, et al.,  
