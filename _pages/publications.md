@@ -62,7 +62,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;[2024, ApJ, 966, 113](https://ui.adsabs.harvard.edu/abs/2024ApJ...966..113L/abstract)
 
 196\. A large population of strongly lensed faint submillimetre galaxies in future dark energy surveys inferred from JWST imaging,  
-&nbsp;&nbsp;&nbsp;Pearson, J., et al.(<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;Pearson, J., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;[2024, MNRAS, 527, 10044](https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.12044/abstract)
 
 195\. Understanding the Formation and Evolution of Dark Galaxies in a Simulated Universe,  
