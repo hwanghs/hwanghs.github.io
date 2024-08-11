@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal Archive / 개인 기록
+title: Personal Archive/개인 기록
 nav: true
 nav_order: 4
 dropdown: true
