@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /articles/
-title: Articles / 잡글
+title: Articles/잡글
 nav: false
 nav_order: 
 ---
