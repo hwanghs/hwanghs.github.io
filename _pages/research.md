@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research / 연구
+title: Research/연구
 nav: true
 nav_order: 3
 ---
