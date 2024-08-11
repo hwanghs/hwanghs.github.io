@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications / 논문
+title: Publications/논문
 nav: true
 nav_order: 2
 ---
