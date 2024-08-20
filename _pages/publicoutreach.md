@@ -8,7 +8,7 @@ nav_order:
 
 **Audio/Video Clips**
 
-* [별소리 다 듣겠네] 우주의 탄생!… 빅뱅우주론VS정상우주론 (2023.04.03) [[영상]](https://science.ytn.co.kr/program/view.php?mcd=0082&key=202304031633123731)
+* [별소리 다 듣겠네] 우주의 탄생!… 빅뱅우주론 vs. 정상우주론 (2023.04.03) [[영상]](https://science.ytn.co.kr/program/view.php?mcd=0082&key=202304031633123731)
 * [K-MOOC] 서울대 소장품 감상하기: 천문학을 중심으로 (2023.02.07) [[영상]](https://www.kmooc.kr/view/search/황호성)
 * 삼프로tv/언더스탠딩: 우리가 알던 암흑에너지는 틀렸습니다 (2023.10.5) [[영상]](https://www.youtube.com/watch?v=LA7l-iZq11s&t=950s)
 * 삼프로tv/언더스탠딩: 세상의 모든 지식 - 유클리드 망원경, 우주 암흑물질의 비밀 푼다 (2023.7.4) [[영상]](https://www.youtube.com/watch?v=SIjt6ltYNIQ)
@@ -20,10 +20,10 @@ nav_order:
 * 금요일에 과학터치: 우리가 살고 있는 은하, 대체 어떻게 만들어졌을까? (2022.07.15) [[영상]](https://www.youtube.com/watch?v=3cEKO_ZNMds)
 * 노벨상의 위대한 발견: 2019년 노벨물리학상 - 물리학적 우주론의 이론적 정립과 태양을 닮은 별을 도는 외계 행성 발견 (2022.02.14) [[영상]](https://www.youtube.com/watch?v=PXFz2ljakyU)
 * 2021 관악 강감찬 축제 (낙성대 야별회 강연: 문곡성과 나, 그리고 우주) (2021. 10. 15-16) [[안내]](https://ggcfest.com/festival2/) [[영상 1]](https://www.youtube.com/watch?v=pD72MNK0zzM) [[영상 2]](https://www.youtube.com/watch?v=BiwgMRHdvqk)
-* 전통 천문학과 현대 우주론 박창범 교수님 강연 패널 (2021. 07. 07)[[기사]](http://www.gnnews.org/news/articleView.html?idxno=8390)
+* 전통 천문학과 현대 우주론 박창범 교수님 강연 패널 (2021. 07. 07) [[기사]](http://www.gnnews.org/news/articleView.html?idxno=8390)
 * 우주론 대토론: 암흑에너지는 존재하는가? (2021. 5. 26) [[토론 소개]](https://ikaos.org/kaos/apply/view.php?kc_idx=107) [[녹화 영상]](https://www.youtube.com/watch?v=C4e-6dgyzMo)
 * 우미우미/우주의 미래, 우리의 미래: 2017 가을 카오스 강연 '미래과학' 임명신 교수님 강연 패널 (2019. 11. 15) [[영상 1]](https://www.youtube.com/watch?v=O-Lu1SCEZsI) [[영상 2]](https://www.youtube.com/watch?v=tNnoYmugJVo) [[영상 3]](https://www.youtube.com/watch?v=71MWCkKxkrY) [[영상 4]](https://www.youtube.com/watch?v=OD8kJ-18cRo)
-* 빛과 함께 하는 시간 여행: 2015 가을 카오스 강연 <빛 색즉시공> 이명균 교수님 강연 패널 (2015. 10. 28) [[영상 1]](https://www.youtube.com/watch?v=zU0sWzBFODo) [[영상 2]](https://www.youtube.com/watch?v=QiNmPoQRRPQ) [[영상 3]](https://www.youtube.com/watch?v=RcbGOZQTOTI) [[영상 4]](https://www.youtube.com/watch?v=hM80sLuj8d0)
+* 빛과 함께 하는 시간 여행: 2015 가을 카오스 강연 - 빛 색즉시공 - 이명균 교수님 강연 패널 (2015. 10. 28) [[영상 1]](https://www.youtube.com/watch?v=zU0sWzBFODo) [[영상 2]](https://www.youtube.com/watch?v=QiNmPoQRRPQ) [[영상 3]](https://www.youtube.com/watch?v=RcbGOZQTOTI) [[영상 4]](https://www.youtube.com/watch?v=hM80sLuj8d0)
 * 촛불집회 참가자는 몇 명인가? [[SBS 궁금한 이야기 Y 방송 (2016.12.02)]](https://programs.sbs.co.kr/culture/cube/vod/54887/22000207911) [[관련 기사]](http://www.munhwa.com/news/view.html?no=2016122801032603000001)
 * [2018 국립과천과학관 천체투영관 대축제 3주차 돔 홍보영상 (2018. 12. 14)](https://www.youtube.com/watch?v=236ZHhzOxN8)
 * [파토의 과학하고 앉아있네 20 <우주 속 우리집 주소 찾기!> (2015. 3. 23) [과학과 사람들 팟캐스트]](http://www.podbbang.com/ch/6205?e=21644731)
