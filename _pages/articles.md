@@ -14,7 +14,7 @@ nav_order:
 
 * [밤하늘의 그림책](http://astro.kias.re.kr/%7Ehshwang/morphology/morphology.htm) (2004. 9. 22): IRAF 밤하늘의 예쁜 그림으로 만든 그림책입니다.
 
-* [CCD 로 올려다 본 하늘](http://astro.kias.re.kr/%7Ehshwang/ccd.html) (2003. 8.04): 칩에 비친 하늘이라..
+* [CCD로 올려다 본 하늘](http://astro.kias.re.kr/%7Ehshwang/ccd.html) (2003. 8.04): 칩에 비친 하늘이라..
 
 * [인공위성 망원경](http://astro.kias.re.kr/%7Ehshwang/satellite.htm) (2002.10.18): 세상에는 너무나도 많은 망원경이 있고 천문학자는 올려다 볼 하늘이 너무 넓은 것 같습니다.
 
@@ -26,7 +26,7 @@ nav_order:
 
 * [쉬는 즐거움!](http://astro.kias.re.kr/%7Ehshwang/trip_boao.htm) (보현산 천문대 기행기, 2001.5.18): 일상 밖으로의 초대...
 
-* [나 는야 불가사의!!!](http://astro.kias.re.kr/%7Ehshwang/tidal.htm) (2001.2.11): 4년 전의 일기를 꺼내어...
+* [나는야 불가사의!!!](http://astro.kias.re.kr/%7Ehshwang/tidal.htm) (2001.2.11): 4년 전의 일기를 꺼내어...
 
 * [천체사진의 조그만 이해](http://astro.kias.re.kr/%7Ehshwang/aphto.htm) (2000.11.17): 이건 어릴 적의 글이 아니라 정리에 불과하다.. 허나 나에겐 소중한 경험이었다.. 나의 재산이다.
 
@@ -38,7 +38,7 @@ nav_order:
 
 * [All about Binocular](http://astro.kias.re.kr/%7Ehshwang/binocular.htm) (쌍안경, 99.7.18): 별을 보기 시작했어.. 망원경은 없다. 그러나 쌍안경이 있다.
 
-* [국내천문대소개](http://astro.kias.re.kr/%7Ehshwang/domestic_obs.html) (99.2.27): 국내 천문대를 돌아보려는데.. 차비도 없는데.. 어딜..
+* [국내 천문대 소개](http://astro.kias.re.kr/%7Ehshwang/domestic_obs.html) (99.2.27): 국내 천문대를 돌아보려는데.. 차비도 없는데.. 어딜..
 
 * [사자자리 유성우관측결과](http://astro.kias.re.kr/%7Ehshwang/result.htm) (98.11.19): 아쉬움을 남겼던 유성우.. 하지만 동심의 눈으로 바라보면 좋은 추억이 아니었을까요...
 
