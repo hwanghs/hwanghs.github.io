@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 **Refereed Publications: 208 in total**  
-**(5 submitted, 18 as first author, 36 as second author, and 149 as co-author)**
+**(3 submitted, 18 as first author, 36 as second author, and 151 as co-author)**
 
 ### Recent Papers:
 
@@ -17,33 +17,33 @@ nav_order: 2
 
 207\. Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations, <br>
 &nbsp;&nbsp;&nbsp;Lee, J.-Y., et al. (<u>Hwang, H. S.</u>),  <br>
-&nbsp;&nbsp;&nbsp;2024, ApJ, submitted
+&nbsp;&nbsp;&nbsp;2024, ApJ, in press [(arXiv:2409.02256)](https://ui.adsabs.harvard.edu/abs/2024arXiv240902256L/abstract)
 
-206\. Testing Lyman Alpha Emitters and Lyman-Break Galaxies as Tracers of Large-Scale Structures at High Redshifts, <br>
-&nbsp;&nbsp;&nbsp;Im, S. H., (<u>Hwang, H. S.</u>), et al.,  <br>
-&nbsp;&nbsp;&nbsp;2024, ApJ, in press [(arXiv:2407.18602)](https://ui.adsabs.harvard.edu/abs/2024arXiv240718602I/abstract)
-
-205\. Chandra Survey in the AKARI North Ecliptic Pole Deep Field Optical/Infrared Identifications of X-ray Sources, <br>
-&nbsp;&nbsp;&nbsp;Miyaji, T., et al. (<u>Hwang, H. S.</u>),   <br>
-&nbsp;&nbsp;&nbsp;2024, A&A, in press [(arXiv:2407.13864)](https://ui.adsabs.harvard.edu/abs/2024arXiv240713864M/abstract)
-
-204\. SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES). V. Confusion-limited Submillimeter Galaxy Number Counts at 450 μm and Data Release for the COSMOS Field,  <br>
-&nbsp;&nbsp;&nbsp;Gao, Z.-K., et al. (<u>Hwang, H. S.</u>),   <br>
-&nbsp;&nbsp;&nbsp;2024, ApJ, in press [(arXiv:2405.20616)](https://ui.adsabs.harvard.edu/abs/2024arXiv240520616G/abstract)
-
-203\. Direct Evidence of a Major Merger in the Perseus Cluster,  <br>
-&nbsp;&nbsp;&nbsp;HyongHan, K., Jee, J., et al. (<u>Hwang, H. S.</u>),  
+206\. Direct Evidence of a Major Merger in the Perseus Cluster,  <br>
+&nbsp;&nbsp;&nbsp;HyeongHan, K., Jee, J., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;2024, NatAs, submitted [(arXiv:2405.00115)](https://ui.adsabs.harvard.edu/abs/2024arXiv240500115H/abstract)
 
-202\. ODIN: Improved Narrowband Lyα Emitter Selection Techniques for z= 2.4, 3.1, and 4.5,  
+205\. ODIN: Improved Narrowband Lyα Emitter Selection Techniques for z= 2.4, 3.1, and 4.5,  
 &nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2023, ApJ, submitted [(arXiv:2312.16075)](https://ui.adsabs.harvard.edu/abs/2023arXiv231216075F/abstract)
+&nbsp;&nbsp;&nbsp;2023, ApJ, in press [(arXiv:2312.16075)](https://ui.adsabs.harvard.edu/abs/2023arXiv231216075F/abstract)
 
-201\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  <br>
+204\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  <br>
 &nbsp;&nbsp;&nbsp;Kim, T., <u>Hwang, H. S.</u>, et al.,  
 &nbsp;&nbsp;&nbsp;2023, ApJS, submitted
 
 ### 2024:
+
+203\. Testing Lyman Alpha Emitters and Lyman-Break Galaxies as Tracers of Large-Scale Structures at High Redshifts, <br>
+&nbsp;&nbsp;&nbsp;Im, S. H., (<u>Hwang, H. S.</u>), et al.,  <br>
+&nbsp;&nbsp;&nbsp;[2024, ApJ, 972, 196](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..196I/abstract)
+
+202\. Chandra Survey in the AKARI North Ecliptic Pole Deep Field Optical/Infrared Identifications of X-ray Sources, <br>
+&nbsp;&nbsp;&nbsp;Miyaji, T., et al. (<u>Hwang, H. S.</u>),   <br>
+&nbsp;&nbsp;&nbsp;[2024, A&A, 689, 83](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..83M/abstract)
+
+201\. SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES). V. Confusion-limited Submillimeter Galaxy Number Counts at 450 μm and Data Release for the COSMOS Field,  <br>
+&nbsp;&nbsp;&nbsp;Gao, Z.-K., et al. (<u>Hwang, H. S.</u>),  <br>
+&nbsp;&nbsp;&nbsp;[2024, ApJ, 971, 117](https://ui.adsabs.harvard.edu/abs/2024ApJ...971..117G/abstract)
 
 200\. Effects of galaxy environment on merger fraction,  
 &nbsp;&nbsp;&nbsp;Pearson, W.J., et al. (<u>Hwang, H. S.</u>), <br>
