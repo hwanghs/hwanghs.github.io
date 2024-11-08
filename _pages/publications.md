@@ -703,7 +703,7 @@ nav_order: 2
 
 43\. A Herschel view of the far-infrared properties of submillimetre galaxies,  
 &nbsp;&nbsp;&nbsp;Magnelli, B., Lutz, D., Santini, P., Saintonge, A., Berta, S., PEP/HerMES team (<u>Hwang, H. S.</u>),  
-&nbsp;&nbsp;&nbsp;[2011, A&A, 539, 155](http://ui.adsabs.harvard.edu/abs/2012A%26A...539A.155M)
+&nbsp;&nbsp;&nbsp;[2012, A&A, 539, 155](http://ui.adsabs.harvard.edu/abs/2012A%26A...539A.155M)
 
 42\. AKARI Observation of the North Ecliptic Pole (NEP) Supercluster at z=0.087: mid-infrared view of transition galaxies,  
 &nbsp;&nbsp;&nbsp;Ko, J., Im, M., Lee, H. M., Lee, M. G., Kim, S. J., Shim, H., Jeon, Y., <u>Hwang, H. S.</u>, et al.,  
