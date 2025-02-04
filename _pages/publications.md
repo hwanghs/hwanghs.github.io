@@ -20,38 +20,51 @@ nav_order: 2
 
 216\. Modeling submillimeter galaxies in cosmological simulations: Contribution to the cosmic star formation density and predictions for future surveys, <br>
 &nbsp;&nbsp;&nbsp;Kumar, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, A&A, submitted (arXiv:2501.19327)
+&nbsp;&nbsp;&nbsp;2025, A&A, submitted [(arXiv:2501.19327)](https://ui.adsabs.harvard.edu/abs/2025arXiv250119327K/abstract)
 
 215\. ODIN: Star Formation Histories Reveal Formative Starbursts Experienced by Lyman Alpha Emitting Galaxies at Cosmic Noon, <br>
 &nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted (arXiv:2501.08568)
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted [(arXiv:2501.08568)](https://ui.adsabs.harvard.edu/abs/2025arXiv250108568F/abstract)
 
 214\. Quenching of Galaxies at Cosmic Noon: Understanding the Effect of Environment, <br>
 &nbsp;&nbsp;&nbsp;Singh, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2024, A&A, submitted (arXiv:2411.12722)
+&nbsp;&nbsp;&nbsp;2024, A&A, submitted [(arXiv:2411.12722)](https://ui.adsabs.harvard.edu/abs/2024arXiv241112722S/abstract)
 
 213\. Galaxy populations in protoclusters at cosmic noon, <br>
 &nbsp;&nbsp;&nbsp;Moira, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2024, A\&A, submitted (arXiv:2410.08412)
+&nbsp;&nbsp;&nbsp;2024, A\&A, submitted [(arXiv:2410.08412)](https://ui.adsabs.harvard.edu/abs/2024arXiv241008412A/abstract)
 
-
-
-
-208\. Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced, <br>
-&nbsp;&nbsp;&nbsp;Jeong, D., (<u>Hwang, H. S.</u>), Chung, H., Yoon, Y.,  <br>
-&nbsp;&nbsp;&nbsp;2024, ApJ, submitted
-
-
-206\. Direct Evidence of a Major Merger in the Perseus Cluster,  <br>
+212\. Direct Evidence of a Major Merger in the Perseus Cluster,  <br>
 &nbsp;&nbsp;&nbsp;HyeongHan, K., Jee, J., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;2024, NatAs, submitted [(arXiv:2405.00115)](https://ui.adsabs.harvard.edu/abs/2024arXiv240500115H/abstract)
 
+211\. Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced, <br>
+&nbsp;&nbsp;&nbsp;Jeong, D., (<u>Hwang, H. S.</u>), Chung, H., Yoon, Y.,  <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, in press [(arXiv:2502.01625)](https://arxiv.org/abs/2502.01625)
 
-204\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  <br>
+210\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  <br>
 &nbsp;&nbsp;&nbsp;Kim, T., <u>Hwang, H. S.</u>, et al.,  
-&nbsp;&nbsp;&nbsp;2023, ApJS, submitted
+&nbsp;&nbsp;&nbsp;2025, ApJS, in press [(arXiv:2502.00692)](https://ui.adsabs.harvard.edu/abs/2025arXiv250200692K/abstract)
+
+209\. Resolved Stellar Mass Estimation of Nearby Late-type Galaxies for the SPHEREx Era: Dependence on Stellar Population Synthesis Models,  <br>
+&nbsp;&nbsp;&nbsp;Lee, J.H., (<u>Hwang, H. S.</u>), et al.,
+&nbsp;&nbsp;&nbsp;2025, AJ, in press
+
+### 2025:
+
+208\. Development of Robotic Fiber Positioner and Path Planning Algorithm for Multi-object Spectroscopy,  <br>
+&nbsp;&nbsp;&nbsp;Lim, H., (<u>Hwang, H. S.</u>), et al.,
+&nbsp;&nbsp;&nbsp;[(2025, J. Korean Soc. Precis. Eng., 42, 79)](https://doi.org/10.7736/JKSPE.024.120)
 
 ### 2024:
+
+207\. Understanding the Radial Acceleration Relation of Dwarf Galaxies with Emergent Gravity,  <br>
+&nbsp;&nbsp;&nbsp;Han, S., (<u>Hwang, H. S.</u>), Yoon, Y.,  
+&nbsp;&nbsp;&nbsp;[2024, JKAS, 57. 249](https://ui.adsabs.harvard.edu/abs/2024JKAS...57..249H/abstract)
+
+206\. ODIN: Identifying Protoclusters and Cosmic Filaments Traced by Lyα-emitting Galaxies,  <br>
+&nbsp;&nbsp;&nbsp;Ramakrishnan, V., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2024, ApJ, 977, 119](https://ui.adsabs.harvard.edu/abs/2024ApJ...977..119R/abstract)
 
 205\. Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations, <br>
 &nbsp;&nbsp;&nbsp;Lee, J.-Y., et al. (<u>Hwang, H. S.</u>),  <br>
