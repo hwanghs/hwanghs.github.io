@@ -30,6 +30,7 @@ nav_order:
 * [파토의 과학하고 앉아있네 20 <우주 속 우리집 주소 찾기!> (2015. 3. 23) [과학과 사람들 팟캐스트]](http://www.podbbang.com/ch/6205?e=21644731)
 
 **Interview**
+
 * [서울대학교 자연과학대학 2022년 신임교수 인터뷰] [천문학과 황호성 교수님을 소개합니다! (2022.10.24)](https://science.snu.ac.kr/newsroom/view/2/11/826)
 * [서울대학교 대학신문] [연구만 하는 교수님? 우리는 라켓 든 '스포츠인' (2022.08.28)](http://www.snunews.com/news/articleView.html?idxno=30910)
 
@@ -57,7 +58,12 @@ nav_order:
 
 * [DESI Science Webpage Korean version](https://www.desi.lbl.gov/kr-science/) ([KASI Facebook posting](https://www.facebook.com/kasipr/photos/a.499978350139206/1963428433794183/?type=3&theater), Sept. 17, 2020)
 
+**저서**
+
+* [대학 지구과학개론 (2024.03.05)](https://product.kyobobook.co.kr/detail/S000212650223)
+
 **Other news**
+
 * 제3회 한국과학기자협회-YKAST 포럼: 우주 개척을 위한 대한민국 기술개발의 현재와 미래 - 한국형 우주 망원경 개발 현황 및 전망 (2023.11.02) [[기사]](https://mobile.newsis.com/view.html?ar_id=NISX20231102_0002506772)
 * 젊은 연구자들이 생각하는 국가과학기술 혁신 촉진 방안 (2023.8.25) [[영상]](https://www.youtube.com/watch?v=TlHmekhtmjY)
 * 과학·예술 융복합 전시 프로젝트 'The Origin' 개최 [[기사]](https://www.discoverynews.kr/news/articleView.html?idxno=1029155) (2023년 7월 5일 뉴스)
