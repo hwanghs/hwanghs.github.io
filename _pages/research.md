@@ -10,6 +10,8 @@ nav_order: 3
 
 **Large Scale Structures / 우주 거대 구조**
 
+* [Tracing Huge, Distant Structures in the Universe (Oct. 25, 2024, from AAS Nova)](https://aasnova.org/2024/10/25/tracing-huge-distant-structures-in-the-universe/)
+
 * [Mapping the local cosmic web (May 26, 2021, from PSU)](https://www.psu.edu/news/research/story/mapping-local-cosmic-web/)
   
 * [인공 지능이 그린 우리은하 주변 암흑물질 지도 (2021년 5월 27일, 한국천문연구원)](https://www.kasi.re.kr/kor/publication/post/newsMaterial/28759 )
@@ -31,6 +33,8 @@ nav_order: 3
 * [우주를 가속 팽창시키는 암흑에너지는 “제5원소”이다? (2023년 8월 4일, 고등과학원)](https://www.kias.re.kr/kias/bbs/B0000029/view.do?nttId=1353&menuNo=406005&pageIndex=1&lang=ko)
 
 **Galaxy Formation and Evolution**
+
+* [Here are the dark galaxies (Oct. 23, 2024 from Epsiloon)](https://www.epsiloon.com/tous-les-numeros/n41/voici_les_galaxies_noires/)
 
 * [시민과 함께 과학 - 은하 분류 프로젝트 (2024년 2월 5일, 고등과학원)](https://www.kias.re.kr/kias/bbs/B0000029/view.do?nttId=1411&menuNo=406005&lang=ko)
   
