@@ -8,6 +8,7 @@ nav_order:
 
 **Audio/Video Clips**
 
+* [노매드 사이언티스트] 화성 이주, 진짜 가능해? (2025.01.22) [[영상]](https://www.youtube.com/watch?v=MeaBFZbMtjY)
 * [별소리 다 듣겠네] 우주의 탄생!… 빅뱅우주론 vs. 정상우주론 (2023.04.03) [[영상]](https://science.ytn.co.kr/program/view.php?mcd=0082&key=202304031633123731)
 * [K-MOOC] 서울대 소장품 감상하기: 천문학을 중심으로 (2023.02.07) [[영상]](https://www.kmooc.kr/view/search/황호성)
 * 삼프로tv/언더스탠딩: 우리가 알던 암흑에너지는 틀렸습니다 (2023.10.5) [[영상]](https://www.youtube.com/watch?v=LA7l-iZq11s&t=950s)
