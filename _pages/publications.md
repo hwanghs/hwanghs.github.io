@@ -6,32 +6,60 @@ nav: true
 nav_order: 2
 ---
 
-**Refereed Publications: 208 in total**  
-**(3 submitted, 18 as first author, 36 as second author, and 151 as co-author)**
+**Refereed Publications: 218 in total**  
+**(7 submitted, 18 as first author, 38 as second author, and 155 as co-author)**
 
 ### Recent Papers:
+218\. Searching for Dark Galaxies with HI detection from the Arecibo Legacy Fast ALFA (ALFALFA) survey, <br>
+&nbsp;&nbsp;&nbsp;Kwon, M., (<u>Hwang, H. S.</u>), et al., <br>
+&nbsp;&nbsp;&nbsp;2025, ApJS, submitted 
+
+217\. A Redshift Survey of the Coma Cluster (A1656): Understanding the Nature of Subhalos in the Weak-lensing Map, <br>
+&nbsp;&nbsp;&nbsp;Kang, W., (<u>Hwang, H. S.</u>), Okabe, N., Park, C., <br>
+&nbsp;&nbsp;&nbsp;2025, ApJS, submitted 
+
+216\. Modeling submillimeter galaxies in cosmological simulations: Contribution to the cosmic star formation density and predictions for future surveys, <br>
+&nbsp;&nbsp;&nbsp;Kumar, A., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, A&A, submitted (arXiv:2501.19327)
+
+215\. ODIN: Star Formation Histories Reveal Formative Starbursts Experienced by Lyman Alpha Emitting Galaxies at Cosmic Noon, <br>
+&nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted (arXiv:2501.08568)
+
+214\. Quenching of Galaxies at Cosmic Noon: Understanding the Effect of Environment, <br>
+&nbsp;&nbsp;&nbsp;Singh, A., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2024, A&A, submitted (arXiv:2411.12722)
+
+213\. Galaxy populations in protoclusters at cosmic noon, <br>
+&nbsp;&nbsp;&nbsp;Moira, A., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2024, A\&A, submitted (arXiv:2410.08412)
+
+
+
 
 208\. Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced, <br>
 &nbsp;&nbsp;&nbsp;Jeong, D., (<u>Hwang, H. S.</u>), Chung, H., Yoon, Y.,  <br>
 &nbsp;&nbsp;&nbsp;2024, ApJ, submitted
 
-207\. Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations, <br>
-&nbsp;&nbsp;&nbsp;Lee, J.-Y., et al. (<u>Hwang, H. S.</u>),  <br>
-&nbsp;&nbsp;&nbsp;2024, ApJ, in press [(arXiv:2409.02256)](https://ui.adsabs.harvard.edu/abs/2024arXiv240902256L/abstract)
 
 206\. Direct Evidence of a Major Merger in the Perseus Cluster,  <br>
 &nbsp;&nbsp;&nbsp;HyeongHan, K., Jee, J., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;2024, NatAs, submitted [(arXiv:2405.00115)](https://ui.adsabs.harvard.edu/abs/2024arXiv240500115H/abstract)
 
-205\. ODIN: Improved Narrowband Lyα Emitter Selection Techniques for z= 2.4, 3.1, and 4.5,  
-&nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2023, ApJ, in press [(arXiv:2312.16075)](https://ui.adsabs.harvard.edu/abs/2023arXiv231216075F/abstract)
 
 204\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  <br>
 &nbsp;&nbsp;&nbsp;Kim, T., <u>Hwang, H. S.</u>, et al.,  
 &nbsp;&nbsp;&nbsp;2023, ApJS, submitted
 
 ### 2024:
+
+205\. Inferring Cosmological Parameters on SDSS via Domain-Generalized Neural Networks and Lightcone Simulations, <br>
+&nbsp;&nbsp;&nbsp;Lee, J.-Y., et al. (<u>Hwang, H. S.</u>),  <br>
+&nbsp;&nbsp;&nbsp;[2024, ApJ, 975, 38](https://ui.adsabs.harvard.edu/abs/2024ApJ...975...38L/abstract)
+
+204\. ODIN: Improved Narrowband Lyα Emitter Selection Techniques for z= 2.4, 3.1, and 4.5,  
+&nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;[2024, ApJ, 974, 217](https://ui.adsabs.harvard.edu/abs/2024ApJ...974..217F/abstract)
 
 203\. Testing Lyman Alpha Emitters and Lyman-Break Galaxies as Tracers of Large-Scale Structures at High Redshifts, <br>
 &nbsp;&nbsp;&nbsp;Im, S. H., (<u>Hwang, H. S.</u>), et al.,  <br>
