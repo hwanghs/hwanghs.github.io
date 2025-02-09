@@ -40,7 +40,7 @@ nav_order: 2
 
 211\. Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced, <br>
 &nbsp;&nbsp;&nbsp;Jeong, D., (<u>Hwang, H. S.</u>), Chung, H., Yoon, Y.,  <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, in press [(arXiv:2502.01625)](https://arxiv.org/abs/2502.01625)
+&nbsp;&nbsp;&nbsp;2025, ApJ, in press [(arXiv:2502.01625)](https://ui.adsabs.harvard.edu/abs/2025arXiv250201625J/abstract)
 
 210\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  <br>
 &nbsp;&nbsp;&nbsp;Kim, T., <u>Hwang, H. S.</u>, et al.,  
@@ -48,7 +48,7 @@ nav_order: 2
 
 209\. Resolved Stellar Mass Estimation of Nearby Late-type Galaxies for the SPHEREx Era: Dependence on Stellar Population Synthesis Models, <br>
 &nbsp;&nbsp;&nbsp;Lee, J.H., (<u>Hwang, H. S.</u>), et al., <br>
-&nbsp;&nbsp;&nbsp;2025, AJ, in press
+&nbsp;&nbsp;&nbsp;2025, AJ, in press [(arXiv:2502.01978)](https://ui.adsabs.harvard.edu/abs/2025arXiv250201978L/abstract)
 
 ### 2025:
 
