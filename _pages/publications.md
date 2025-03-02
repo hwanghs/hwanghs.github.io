@@ -11,11 +11,11 @@ nav_order: 2
 
 ### Recent Papers:
 218\. Searching for Dark Galaxies with HI detection from the Arecibo Legacy Fast ALFA (ALFALFA) survey, <br>
-&nbsp;&nbsp;&nbsp;Kwon, M., (<u>Hwang, H. S.</u>), et al., <br>
+&nbsp;&nbsp;&nbsp;Kwon, M., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;2025, ApJS, submitted 
 
 217\. A Redshift Survey of the Coma Cluster (A1656): Understanding the Nature of Subhalos in the Weak-lensing Map, <br>
-&nbsp;&nbsp;&nbsp;Kang, W., (<u>Hwang, H. S.</u>), Okabe, N., Park, C., <br>
+&nbsp;&nbsp;&nbsp;Kang, W., <u>Hwang, H. S.</u>, Okabe, N., Park, C., <br>
 &nbsp;&nbsp;&nbsp;2025, ApJS, submitted 
 
 216\. Modeling submillimeter galaxies in cosmological simulations: Contribution to the cosmic star formation density and predictions for future surveys, <br>
@@ -39,7 +39,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;2024, NatAs, submitted [(arXiv:2405.00115)](https://ui.adsabs.harvard.edu/abs/2024arXiv240500115H/abstract)
 
 211\. Diverse Rotation Curves of Galaxies in a Simulated Universe: the Observed Dependence on Stellar Mass and Morphology Reproduced, <br>
-&nbsp;&nbsp;&nbsp;Jeong, D., (<u>Hwang, H. S.</u>), Chung, H., Yoon, Y.,  <br>
+&nbsp;&nbsp;&nbsp;Jeong, D., <u>Hwang, H. S.</u>, Chung, H., Yoon, Y.,  <br>
 &nbsp;&nbsp;&nbsp;2025, ApJ, in press [(arXiv:2502.01625)](https://ui.adsabs.harvard.edu/abs/2025arXiv250201625J/abstract)
 
 210\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  <br>
@@ -47,19 +47,19 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;2025, ApJS, in press [(arXiv:2502.00692)](https://ui.adsabs.harvard.edu/abs/2025arXiv250200692K/abstract)
 
 209\. Resolved Stellar Mass Estimation of Nearby Late-type Galaxies for the SPHEREx Era: Dependence on Stellar Population Synthesis Models, <br>
-&nbsp;&nbsp;&nbsp;Lee, J.H., (<u>Hwang, H. S.</u>), et al., <br>
+&nbsp;&nbsp;&nbsp;Lee, J.H., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2025, AJ, in press [(arXiv:2502.01978)](https://ui.adsabs.harvard.edu/abs/2025arXiv250201978L/abstract)
 
 ### 2025:
 
 208\. Development of Robotic Fiber Positioner and Path Planning Algorithm for Multi-object Spectroscopy,  <br>
-&nbsp;&nbsp;&nbsp;Lim, H., (<u>Hwang, H. S.</u>), et al.,  
+&nbsp;&nbsp;&nbsp;Lim, H., et al. (<u>Hwang, H. S.</u>),  
 &nbsp;&nbsp;&nbsp;[2025, J. Korean Soc. Precis. Eng., 42, 79](https://doi.org/10.7736/JKSPE.024.120)
 
 ### 2024:
 
 207\. Understanding the Radial Acceleration Relation of Dwarf Galaxies with Emergent Gravity,  <br>
-&nbsp;&nbsp;&nbsp;Han, S., (<u>Hwang, H. S.</u>), Yoon, Y.,  
+&nbsp;&nbsp;&nbsp;Han, S., <u>Hwang, H. S.</u>, Yoon, Y.,  
 &nbsp;&nbsp;&nbsp;[2024, JKAS, 57. 249](https://ui.adsabs.harvard.edu/abs/2024JKAS...57..249H/abstract)
 
 206\. ODIN: Identifying Protoclusters and Cosmic Filaments Traced by Lyα-emitting Galaxies,  <br>
@@ -75,7 +75,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;[2024, ApJ, 974, 217](https://ui.adsabs.harvard.edu/abs/2024ApJ...974..217F/abstract)
 
 203\. Testing Lyman Alpha Emitters and Lyman-Break Galaxies as Tracers of Large-Scale Structures at High Redshifts, <br>
-&nbsp;&nbsp;&nbsp;Im, S. H., (<u>Hwang, H. S.</u>), et al.,  <br>
+&nbsp;&nbsp;&nbsp;Im, S. H., <u>Hwang, H. S.</u>, et al.,  <br>
 &nbsp;&nbsp;&nbsp;[2024, ApJ, 972, 196](https://ui.adsabs.harvard.edu/abs/2024ApJ...972..196I/abstract)
 
 202\. Chandra Survey in the AKARI North Ecliptic Pole Deep Field Optical/Infrared Identifications of X-ray Sources, <br>
