@@ -8,6 +8,10 @@ nav_order:
 
 **Articles (Korean)**
 
+* [우주항공청의 성공적인 출범을 위한 제안: 천문우주 과학연구의 중요성](https://kast.or.kr/kr/space/publication_renewal.php?bbs_data=aWR4PTIyOTEyJnN0YXJ0UGFnZT0wJmxpc3RObz0zJnRhYmxlPWNzX2Jic19kYXRhJmNvZGU9bW9rJnNlYXJjaF9pdGVtPTEmc2VhcmNoX29yZGVyPeyasOyjvA==||&bgu=view&cate=) (2024. 12. 19): 한림연구보고서 153.
+
+* [우주항공청의 성공을 이끄는 과학연구의 역할](https://kast.or.kr/kr/space/publication_renewal.php?bbs_data=aWR4PTIxOTE1JnN0YXJ0UGFnZT0wJmxpc3RObz05OCZ0YWJsZT1jc19iYnNfZGF0YSZjb2RlPW1vayZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPQ==||&bgu=view&cate=2) (2024. 7. 22): 한림원의 목소리 제110호.
+
 * [우주 개척, 어떻게 해야할까?](http://tinyurl.com/2skvjunk) (2022. 12. 20): 한국과학기술한림원 차세대 리포트 주제 글.
 
 * [우주에서 지구의 주소는 어떻게 될까?](http://astro.snu.ac.kr/~hhwang/Ziidok_CosmicAddress.pdf) (2020. 2. 4): 지독에 (http://ziidok.com) 쓴 첫번째 글..
