@@ -64,4 +64,6 @@ nav_order: 3
 
 **Formation of Galaxy Clusters/Groups**
 
+* [우주 연구의 디딤돌을 쏘아 올리다 (2025년 3월 23일, 대학신문)](https://www.snunews.com/news/articleView.html?idxno=34009)
+
 **Galaxy Interactions and Mergers**
