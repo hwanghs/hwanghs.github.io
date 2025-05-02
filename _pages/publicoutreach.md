@@ -43,7 +43,9 @@ nav_order:
 
 **Endorsement for Books**
 
-* At the Edge of Time (우리 우주의 첫 순간: 빅뱅의 발견부터 암흑물질까지 현대 우주론의 중요한 문제들) (Oct. 5, 201238) [[Korean]](https://product.kyobobook.co.kr/detail/S000209212217)
+* 우주여행자를 위한 생존법 (Apr. 10, 2025) [[Korean]](https://product.kyobobook.co.kr/detail/S000216226249)
+* 그동안 몰랐던 별의별 천무학 이야기 (Jan. 3, 2025) [[Korean]](https://product.kyobobook.co.kr/detail/S000215103306)
+* At the Edge of Time (우리 우주의 첫 순간: 빅뱅의 발견부터 암흑물질까지 현대 우주론의 중요한 문제들) (Oct. 5, 2023) [[Korean]](https://product.kyobobook.co.kr/detail/S000209212217)
 * See the Stars in the Cave (동굴에서 별을 보다) (Dec. 20, 2018) [[Korean]](http://www.yes24.com/24/goods/67518613?scode=032&OzSrank=1)
 * Universe seen from the South Pole (남극점에서 본 우주) (Nov. 25, 2019) [[Korean]](http://www.yes24.com/Product/Goods/84183214?OzSrank=1)
 
