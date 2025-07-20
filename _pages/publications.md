@@ -6,59 +6,77 @@ nav: true
 nav_order: 2
 ---
 
-**Refereed Publications: 224 in total**  
-**(9 submitted, 18 as first author, 39 as second author, and 158 as co-author)**
+**Refereed Publications: 228 in total**  
+**(5 submitted, 18 as first author, 41 as second author, and 164 as co-author)**
 
 ### Recent Papers:
-224\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning, <br>
-&nbsp;&nbsp;&nbsp;Dupuy, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, Sci, submitted 
 
-223\. Comment on “Emergent Gravity and the Dark Universe” by Erik Verlinde, <br>
-&nbsp;&nbsp;&nbsp;Yoon, Y., <u>Hwang, H. S.</u>, <br>
-&nbsp;&nbsp;&nbsp;2025, SciPost, submitted 
+228\.A New Collision Avoidance Fiber Assignment Algorithm for Robotic Fiber Positioners in Multi-Object Spectroscopy, <br>
+&nbsp;&nbsp;&nbsp;Kwon, M., <u>Hwang, H. S.</u>, et al., <br>
+&nbsp;&nbsp;&nbsp;2025, JKAS, submitted
+
+227\.Search for Slow Bars in Two Barred Galaxies with Nuclear Structures: NGC 6951 and NGC 7716, <br>
+&nbsp;&nbsp;&nbsp;Lee, Y.H., <u>Hwang, H. S.</u>, et al., <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, in press
+
+226\.High school students' attitude toward astronomy and science after the participation in the
+citizen science activity `Mission Galaxy' project, <br>
+&nbsp;&nbsp;&nbsp;Eom, H., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, PKAS, in press
+
+225\.Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps, <br>
+&nbsp;&nbsp;&nbsp;Kim, S., <u>Hwang, H. S.</u>, Jeffrey, N., <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted 
+
+224\. Redshift Evolution of the Intrinsic Alignments of Galaxies and Subhalos in the Horizon Run 5 Simulation, <br>
+&nbsp;&nbsp;&nbsp;Han, S., Tonegawa, M., <u>Hwang, H. S.</u>, et al. <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted [(arXiv:2505.10840)](https://ui.adsabs.harvard.edu/abs/2025arXiv250510840H/abstract) 
+
+223\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning, <br>
+&nbsp;&nbsp;&nbsp;Dupuy, A., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted 
 
 222\. Tracing Dark Matter in the Central Regions of Galaxy Clusters Using Galaxies, Gas, and Intracluster Light in TNG300: Connections to Cluster Dynamical State, <br>
 &nbsp;&nbsp;&nbsp;Yoo, J., Shin, J., <u>Hwang, H. S.</u>, et al., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted 
+&nbsp;&nbsp;&nbsp;2025, ApJ, in press [(arXiv:2506.16280)](https://ui.adsabs.harvard.edu/abs/2025arXiv250616280Y/abstract) 
 
 221\. Searching for Dark Galaxies with HI detection from the Arecibo Legacy Fast ALFA (ALFALFA) survey, <br>
 &nbsp;&nbsp;&nbsp;Kwon, M., <u>Hwang, H. S.</u>, et al., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJS, submitted 
+&nbsp;&nbsp;&nbsp;2025, ApJS, in press [(arXiv:2506.03678)](https://ui.adsabs.harvard.edu/abs/2025arXiv250603678K/abstract) 
 
-220\. RVSNUpy: A Python Package for Spectroscopic Redshift Measurement Based on Cross-Correlation, <br>
-&nbsp;&nbsp;&nbsp;Kim, T., Sohn, J., <u>Hwang, H. S.</u>, <br>
-&nbsp;&nbsp;&nbsp;2025, AJ, in press
-
-219\. A Redshift Survey of the Coma Cluster (A1656): Understanding the Nature of Subhalos in the Weak-lensing Map, <br>
-&nbsp;&nbsp;&nbsp;Kang, W., <u>Hwang, H. S.</u>, Okabe, N., Park, C., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJS, in press [(arXiv:2504.05616)](https://ui.adsabs.harvard.edu/abs/2025arXiv250405616K/abstract) 
-
-218\. ODIN: Clustering Analysis of 14,000 Ly\alpha Emitting Galaxies at z=2.4, 3.1, and 4.5, <br>
+220\. ODIN: Clustering Analysis of 14,000 Ly\alpha Emitting Galaxies at z=2.4, 3.1, and 4.5, <br>
 &nbsp;&nbsp;&nbsp;Herrera, D., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJL, submitted [(arXiv:2503.17824)](https://ui.adsabs.harvard.edu/abs/2025arXiv250317824H/abstract)
+&nbsp;&nbsp;&nbsp;2025, ApJL, in press [(arXiv:2503.17824)](https://ui.adsabs.harvard.edu/abs/2025arXiv250317824H/abstract)
 
-217\. Modeling submillimeter galaxies in cosmological simulations: Contribution to the cosmic star formation density and predictions for future surveys, <br>
-&nbsp;&nbsp;&nbsp;Kumar, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, A&A, submitted [(arXiv:2501.19327)](https://ui.adsabs.harvard.edu/abs/2025arXiv250119327K/abstract)
-
-216\. ODIN: Star Formation Histories Reveal Formative Starbursts Experienced by Lyman Alpha Emitting Galaxies at Cosmic Noon, <br>
-&nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted [(arXiv:2501.08568)](https://ui.adsabs.harvard.edu/abs/2025arXiv250108568F/abstract)
-
-215\. Quenching of Galaxies at Cosmic Noon: Understanding the Effect of Environment, <br>
+219\. Quenching of Galaxies at Cosmic Noon: Understanding the Effect of Environment, <br>
 &nbsp;&nbsp;&nbsp;Singh, A., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2024, A&A, submitted [(arXiv:2411.12722)](https://ui.adsabs.harvard.edu/abs/2024arXiv241112722S/abstract)
 
+### 2025:
+
+218\. RVSNUpy: A Python Package for Spectroscopic Redshift Measurement Based on Cross-Correlation, <br>
+&nbsp;&nbsp;&nbsp;Kim, T., Sohn, J., <u>Hwang, H. S.</u>, <br>
+&nbsp;&nbsp;&nbsp;[2025, AJ, 170, 9](https://ui.adsabs.harvard.edu/abs/2025AJ....170....9K/abstract)
+
+217\. Direct Evidence of a Major Merger in the Perseus Cluster,  <br>
+&nbsp;&nbsp;&nbsp;HyeongHan, K., Jee, J., et al. (<u>Hwang, H. S.</u>),  
+&nbsp;&nbsp;&nbsp;[2024, NatAs, 9, 925](https://ui.adsabs.harvard.edu/abs/2025NatAs...9..925H/abstract)
+
+216\. A Redshift Survey of the Coma Cluster (A1656): Understanding the Nature of Subhalos in the Weak-lensing Map, <br>
+&nbsp;&nbsp;&nbsp;Kang, W., <u>Hwang, H. S.</u>, Okabe, N., Park, C., <br>
+&nbsp;&nbsp;&nbsp;[2025, ApJS, 278, 51](https://ui.adsabs.harvard.edu/abs/2025ApJS..278...51K/abstract) 
+
+215\. ODIN: Star Formation Histories Reveal Formative Starbursts Experienced by Lyman Alpha Emitting Galaxies at Cosmic Noon, <br>
+&nbsp;&nbsp;&nbsp;Firestone, N. M., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;[2025, ApJL, 986, 8](https://ui.adsabs.harvard.edu/abs/2025ApJ...986L...8F/abstract)
+
 214\. Galaxy populations in protoclusters at cosmic noon, <br>
 &nbsp;&nbsp;&nbsp;Moira, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2024, A\&A, submitted [(arXiv:2410.08412)](https://ui.adsabs.harvard.edu/abs/2024arXiv241008412A/abstract)
+&nbsp;&nbsp;&nbsp;[2025, A\&A, 698, 280](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.280A/abstract)
 
-213\. Direct Evidence of a Major Merger in the Perseus Cluster,  <br>
-&nbsp;&nbsp;&nbsp;HyeongHan, K., Jee, J., et al. (<u>Hwang, H. S.</u>),  
-&nbsp;&nbsp;&nbsp;2024, NatAs, in press [(arXiv:2405.00115)](https://ui.adsabs.harvard.edu/abs/2024arXiv240500115H/abstract)
-
-### 2025:
+213\. Modeling submillimeter galaxies in cosmological simulations: Contribution to the cosmic star formation density and predictions for future surveys, <br>
+&nbsp;&nbsp;&nbsp;Kumar, A., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;[2025, A&A, 698, 236](https://ui.adsabs.harvard.edu/abs/2025A%26A...698A.236K/abstract)
 
 212\.  Machine-learning based Photometric Redshifts for the Galaxies in the North Ecliptic Pole Wide field: catalogs of spectroscopic and photometric redshifts,  <br>
 &nbsp;&nbsp;&nbsp;Kim, T., <u>Hwang, H. S.</u>, et al.,  
