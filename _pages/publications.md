@@ -40,19 +40,19 @@ citizen science activity `Mission Galaxy' project, <br>
 &nbsp;&nbsp;&nbsp;Yoo, J., Shin, J., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;2025, ApJ, in press [(arXiv:2506.16280)](https://ui.adsabs.harvard.edu/abs/2025arXiv250616280Y/abstract) 
 
-221\. Searching for Dark Galaxies with HI detection from the Arecibo Legacy Fast ALFA (ALFALFA) survey, <br>
-&nbsp;&nbsp;&nbsp;Kwon, M., <u>Hwang, H. S.</u>, et al., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJS, in press [(arXiv:2506.03678)](https://ui.adsabs.harvard.edu/abs/2025arXiv250603678K/abstract) 
-
-220\. ODIN: Clustering Analysis of 14,000 Ly\alpha Emitting Galaxies at z=2.4, 3.1, and 4.5, <br>
+221\. ODIN: Clustering Analysis of 14,000 Ly\alpha Emitting Galaxies at z=2.4, 3.1, and 4.5, <br>
 &nbsp;&nbsp;&nbsp;Herrera, D., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2025, ApJL, in press [(arXiv:2503.17824)](https://ui.adsabs.harvard.edu/abs/2025arXiv250317824H/abstract)
 
-219\. Quenching of Galaxies at Cosmic Noon: Understanding the Effect of Environment, <br>
+220\. Quenching of Galaxies at Cosmic Noon: Understanding the Effect of Environment, <br>
 &nbsp;&nbsp;&nbsp;Singh, A., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2024, A&A, submitted [(arXiv:2411.12722)](https://ui.adsabs.harvard.edu/abs/2024arXiv241112722S/abstract)
 
 ### 2025:
+
+219\. Searching for Dark Galaxies with HI detection from the Arecibo Legacy Fast ALFA (ALFALFA) survey, <br>
+&nbsp;&nbsp;&nbsp;Kwon, M., <u>Hwang, H. S.</u>, et al., <br>
+&nbsp;&nbsp;&nbsp;[2025, ApJS, 279, 38](https://ui.adsabs.harvard.edu/abs/2025ApJS..279...38K/abstract) 
 
 218\. RVSNUpy: A Python Package for Spectroscopic Redshift Measurement Based on Cross-Correlation, <br>
 &nbsp;&nbsp;&nbsp;Kim, T., Sohn, J., <u>Hwang, H. S.</u>, <br>
