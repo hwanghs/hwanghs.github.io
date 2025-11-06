@@ -11,33 +11,33 @@ nav_order: 2
 
 ### Recent Papers:
 
-233\.Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster, <br>
+233\. Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster, <br>
 &nbsp;&nbsp;&nbsp;Kim, S., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted [arXiv:2511.02323](https://ui.adsabs.harvard.edu/abs/2025arXiv251102323K/abstract)
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.02323](https://ui.adsabs.harvard.edu/abs/2025arXiv251102323K/abstract))
 
-232\.Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph, <br>
+232\. Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph, <br>
 &nbsp;&nbsp;&nbsp;Jang, J., Choi, C., <u>Hwang, H. S.</u>), et al., <br>
 &nbsp;&nbsp;&nbsp;2025, JKAS, submitted 
 
-231\.ODIN: Searching for LyC emission from Lyman-$\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields, <br>
+231\. ODIN: Searching for LyC emission from Lyman-$\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields, <br>
 &nbsp;&nbsp;&nbsp;Seo, E., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2025, ApJ, submitted
 
-230\.ODIN: Using multiplicity of Lyman-Alpha Emitters to assess star formation activity in dark matter halos, <br>
+230\. ODIN: Using multiplicity of Lyman-Alpha Emitters to assess star formation activity in dark matter halos, <br>
 &nbsp;&nbsp;&nbsp;Cerdosino, C., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, A&A, submitted [arXiv:2511.01981](https://ui.adsabs.harvard.edu/abs/2025arXiv251101981C/abstract)
+&nbsp;&nbsp;&nbsp;2025, A&A, submitted ([arXiv:2511.01981](https://ui.adsabs.harvard.edu/abs/2025arXiv251101981C/abstract))
 
-229\.New classification method of dynamical state of galaxy clusters using Gaussian Mixture Model, <br>
+229\. New classification method of dynamical state of galaxy clusters using Gaussian Mixture Model, <br>
 &nbsp;&nbsp;&nbsp;Kim, H., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2025, A&A, submitted 
 
-228\.A New Collision Avoidance Fiber Assignment Algorithm for Robotic Fiber Positioners in Multi-Object Spectroscopy, <br>
+228\. A New Collision Avoidance Fiber Assignment Algorithm for Robotic Fiber Positioners in Multi-Object Spectroscopy, <br>
 &nbsp;&nbsp;&nbsp;Kwon, M., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;2025, JKAS, submitted
 
-227\.Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps, <br>
+227\. Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps, <br>
 &nbsp;&nbsp;&nbsp;Kim, S., <u>Hwang, H. S.</u>, Jeffrey, N., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted [arXiv:2509.25836](https://ui.adsabs.harvard.edu/abs/2025arXiv250925836K/abstract) 
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2509.25836](https://ui.adsabs.harvard.edu/abs/2025arXiv250925836K/abstract))
 
 226\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning, <br>
 &nbsp;&nbsp;&nbsp;Dupuy, A., et al. (<u>Hwang, H. S.</u>), <br>
@@ -46,7 +46,7 @@ nav_order: 2
 
 ### 2025:
 
-225\.High school students' attitude toward astronomy and science after the participation in the
+225\. High school students' attitude toward astronomy and science after the participation in the
 citizen science activity `Mission Galaxy' project, <br>
 &nbsp;&nbsp;&nbsp;Eom, H., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;[2025, PKAS, 40, 47](https://ui.adsabs.harvard.edu/abs/2025PKAS...40...47E/abstract)
@@ -55,7 +55,7 @@ citizen science activity `Mission Galaxy' project, <br>
 &nbsp;&nbsp;&nbsp;Han, S., Tonegawa, M., <u>Hwang, H. S.</u>, et al. <br>
 &nbsp;&nbsp;&nbsp;[2025, ApJ, 990, 197](https://ui.adsabs.harvard.edu/abs/2025ApJ...990..197H/abstract) 
 
-223\.Search for Slow Bars in Two Barred Galaxies with Nuclear Structures: NGC 6951 and NGC 7716, <br>
+223\. Search for Slow Bars in Two Barred Galaxies with Nuclear Structures: NGC 6951 and NGC 7716, <br>
 &nbsp;&nbsp;&nbsp;Lee, Y.H., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;[2025, ApJ, 989, 55](https://ui.adsabs.harvard.edu/abs/2025ApJ...989...55L/abstract)
 
