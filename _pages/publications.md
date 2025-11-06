@@ -6,49 +6,70 @@ nav: true
 nav_order: 2
 ---
 
-**Refereed Publications: 228 in total**  
-**(5 submitted, 18 as first author, 41 as second author, and 164 as co-author)**
+**Refereed Publications: 235 in total**  
+**(7 submitted, 18 as first author, 41 as second author, and 167 as co-author)**
 
 ### Recent Papers:
+
+233\.Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster, <br>
+&nbsp;&nbsp;&nbsp;Kim, S., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.02323])(https://ui.adsabs.harvard.edu/abs/2025arXiv251102323K/abstract)
+
+232\.Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph, <br>
+&nbsp;&nbsp;&nbsp;Jang, J., Choi, C., <u>Hwang, H. S.</u>), et al., <br>
+&nbsp;&nbsp;&nbsp;2025, JKAS, submitted 
+
+231\.ODIN: Searching for LyC emission from Lyman-$\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields, <br>
+&nbsp;&nbsp;&nbsp;Seo, E., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted
+
+230\.ODIN: Using multiplicity of Lyman-Alpha Emitters to assess star formation activity in dark matter halos, <br>
+&nbsp;&nbsp;&nbsp;Cerdosino, C., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, A&A, submitted ([arXiv:2511.01981])(https://ui.adsabs.harvard.edu/abs/2025arXiv251101981C/abstract)
+
+229\.New classification method of dynamical state of galaxy clusters using Gaussian Mixture Model, <br>
+&nbsp;&nbsp;&nbsp;Kim, H., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, A&A, submitted 
 
 228\.A New Collision Avoidance Fiber Assignment Algorithm for Robotic Fiber Positioners in Multi-Object Spectroscopy, <br>
 &nbsp;&nbsp;&nbsp;Kwon, M., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;2025, JKAS, submitted
 
-227\.Search for Slow Bars in Two Barred Galaxies with Nuclear Structures: NGC 6951 and NGC 7716, <br>
-&nbsp;&nbsp;&nbsp;Lee, Y.H., <u>Hwang, H. S.</u>, et al., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, in press
+227\.Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps, <br>
+&nbsp;&nbsp;&nbsp;Kim, S., <u>Hwang, H. S.</u>, Jeffrey, N., <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2509.25836])(https://ui.adsabs.harvard.edu/abs/2025arXiv250925836K/abstract) 
 
-226\.High school students' attitude toward astronomy and science after the participation in the
+226\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning, <br>
+&nbsp;&nbsp;&nbsp;Dupuy, A., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, in press 
+
+
+### 2025:
+
+225\.High school students' attitude toward astronomy and science after the participation in the
 citizen science activity `Mission Galaxy' project, <br>
 &nbsp;&nbsp;&nbsp;Eom, H., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, PKAS, in press
-
-225\.Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps, <br>
-&nbsp;&nbsp;&nbsp;Kim, S., <u>Hwang, H. S.</u>, Jeffrey, N., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted 
+&nbsp;&nbsp;&nbsp;[2025, PKAS, 40, 47](https://ui.adsabs.harvard.edu/abs/2025PKAS...40...47E/abstract)
 
 224\. Redshift Evolution of the Intrinsic Alignments of Galaxies and Subhalos in the Horizon Run 5 Simulation, <br>
 &nbsp;&nbsp;&nbsp;Han, S., Tonegawa, M., <u>Hwang, H. S.</u>, et al. <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted [(arXiv:2505.10840)](https://ui.adsabs.harvard.edu/abs/2025arXiv250510840H/abstract) 
+&nbsp;&nbsp;&nbsp;[2025, ApJ, 990, 197](https://ui.adsabs.harvard.edu/abs/2025ApJ...990..197H/abstract) 
 
-223\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning, <br>
-&nbsp;&nbsp;&nbsp;Dupuy, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted 
+223\.Search for Slow Bars in Two Barred Galaxies with Nuclear Structures: NGC 6951 and NGC 7716, <br>
+&nbsp;&nbsp;&nbsp;Lee, Y.H., <u>Hwang, H. S.</u>, et al., <br>
+&nbsp;&nbsp;&nbsp;[2025, ApJ, 989, 55](https://ui.adsabs.harvard.edu/abs/2025ApJ...989...55L/abstract)
 
-222\. Tracing Dark Matter in the Central Regions of Galaxy Clusters Using Galaxies, Gas, and Intracluster Light in TNG300: Connections to Cluster Dynamical State, <br>
-&nbsp;&nbsp;&nbsp;Yoo, J., Shin, J., <u>Hwang, H. S.</u>, et al., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, in press [(arXiv:2506.16280)](https://ui.adsabs.harvard.edu/abs/2025arXiv250616280Y/abstract) 
-
-221\. ODIN: Clustering Analysis of 14,000 Ly\alpha Emitting Galaxies at z=2.4, 3.1, and 4.5, <br>
+222\. ODIN: Clustering Analysis of 14,000 Ly\alpha Emitting Galaxies at z=2.4, 3.1, and 4.5, <br>
 &nbsp;&nbsp;&nbsp;Herrera, D., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJL, in press [(arXiv:2503.17824)](https://ui.adsabs.harvard.edu/abs/2025arXiv250317824H/abstract)
+&nbsp;&nbsp;&nbsp;[2025, ApJL, 988, 57](https://ui.adsabs.harvard.edu/abs/2025ApJ...988L..57H/abstract)
+
+221\. Tracing Dark Matter in the Central Regions of Galaxy Clusters Using Galaxies, Gas, and Intracluster Light in TNG300: Connections to Cluster Dynamical State, <br>
+&nbsp;&nbsp;&nbsp;Yoo, J., Shin, J., <u>Hwang, H. S.</u>, et al., <br>
+&nbsp;&nbsp;&nbsp;[2025, ApJ, 988, 229](https://ui.adsabs.harvard.edu/abs/2025ApJ...988..229Y/abstract)
 
 220\. Quenching of Galaxies at Cosmic Noon: Understanding the Effect of Environment, <br>
 &nbsp;&nbsp;&nbsp;Singh, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2024, A&A, submitted [(arXiv:2411.12722)](https://ui.adsabs.harvard.edu/abs/2024arXiv241112722S/abstract)
-
-### 2025:
+&nbsp;&nbsp;&nbsp;[2024, A&A, 700, 68](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A..68S/abstract)
 
 219\. Searching for Dark Galaxies with HI detection from the Arecibo Legacy Fast ALFA (ALFALFA) survey, <br>
 &nbsp;&nbsp;&nbsp;Kwon, M., <u>Hwang, H. S.</u>, et al., <br>
