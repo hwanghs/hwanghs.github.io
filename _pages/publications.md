@@ -6,14 +6,14 @@ nav: true
 nav_order: 2
 ---
 
-**Refereed Publications: 235 in total**  
+**Refereed Publications: 233 in total**  
 **(7 submitted, 18 as first author, 41 as second author, and 167 as co-author)**
 
 ### Recent Papers:
 
 233\.Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster, <br>
 &nbsp;&nbsp;&nbsp;Kim, S., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.02323])(https://ui.adsabs.harvard.edu/abs/2025arXiv251102323K/abstract)
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted [arXiv:2511.02323](https://ui.adsabs.harvard.edu/abs/2025arXiv251102323K/abstract)
 
 232\.Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph, <br>
 &nbsp;&nbsp;&nbsp;Jang, J., Choi, C., <u>Hwang, H. S.</u>), et al., <br>
@@ -25,7 +25,7 @@ nav_order: 2
 
 230\.ODIN: Using multiplicity of Lyman-Alpha Emitters to assess star formation activity in dark matter halos, <br>
 &nbsp;&nbsp;&nbsp;Cerdosino, C., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, A&A, submitted ([arXiv:2511.01981])(https://ui.adsabs.harvard.edu/abs/2025arXiv251101981C/abstract)
+&nbsp;&nbsp;&nbsp;2025, A&A, submitted [arXiv:2511.01981](https://ui.adsabs.harvard.edu/abs/2025arXiv251101981C/abstract)
 
 229\.New classification method of dynamical state of galaxy clusters using Gaussian Mixture Model, <br>
 &nbsp;&nbsp;&nbsp;Kim, H., et al. (<u>Hwang, H. S.</u>), <br>
@@ -37,7 +37,7 @@ nav_order: 2
 
 227\.Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps, <br>
 &nbsp;&nbsp;&nbsp;Kim, S., <u>Hwang, H. S.</u>, Jeffrey, N., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2509.25836])(https://ui.adsabs.harvard.edu/abs/2025arXiv250925836K/abstract) 
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted [arXiv:2509.25836](https://ui.adsabs.harvard.edu/abs/2025arXiv250925836K/abstract) 
 
 226\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning, <br>
 &nbsp;&nbsp;&nbsp;Dupuy, A., et al. (<u>Hwang, H. S.</u>), <br>
