@@ -41,8 +41,7 @@ nav_order: 2
 
 226\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning, <br>
 &nbsp;&nbsp;&nbsp;Dupuy, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, in press 
-
+&nbsp;&nbsp;&nbsp;2025, ApJ, in press ([arXiv:2511.03919](https://arxiv.org/abs/2511.03919))
 
 ### 2025:
 
