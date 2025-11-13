@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 **Refereed Publications: 233 in total**  
-**(7 submitted, 18 as first author, 41 as second author, and 167 as co-author)**
+**(6 submitted, 18 as first author, 42 as second author, and 167 as co-author)**
 
 ### Recent Papers:
 
@@ -16,7 +16,7 @@ nav_order: 2
 &nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.02323](https://ui.adsabs.harvard.edu/abs/2025arXiv251102323K/abstract))
 
 232\. Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph, <br>
-&nbsp;&nbsp;&nbsp;Jang, J., Choi, C., <u>Hwang, H. S.</u>), et al., <br>
+&nbsp;&nbsp;&nbsp;Jang, J., Choi, C., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;2025, JKAS, submitted 
 
 231\. ODIN: Searching for LyC emission from Lyman-$\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields, <br>
@@ -37,7 +37,7 @@ nav_order: 2
 
 227\. Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps, <br>
 &nbsp;&nbsp;&nbsp;Kim, S., <u>Hwang, H. S.</u>, Jeffrey, N., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2509.25836](https://ui.adsabs.harvard.edu/abs/2025arXiv250925836K/abstract))
+&nbsp;&nbsp;&nbsp;2025, ApJ, in press ([arXiv:2509.25836](https://ui.adsabs.harvard.edu/abs/2025arXiv250925836K/abstract))
 
 226\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning, <br>
 &nbsp;&nbsp;&nbsp;Dupuy, A., et al. (<u>Hwang, H. S.</u>), <br>
