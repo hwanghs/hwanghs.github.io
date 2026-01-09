@@ -12,11 +12,11 @@ nav_order: 3
 
 * [암흑 물질만 있는 은하를 무더기로 발견하다 (July 22, 2025)](https://www.unipress.co.kr/news/articleView.html?idxno=12864)
  
-* [Here are the dark galaxies (Oct. 23, 2024 from Epsiloon)](https://www.epsiloon.com/tous-les-numeros/n41/voici_les_galaxies_noires/)
+* [Here are the dark galaxies (Oct. 23, 2024 from Epsiloon)](https://astron.snu.ac.kr/24261/)
 
 **Large Scale Structures / 우주 거대 구조**
 
-* [Tracing Huge, Distant Structures in the Universe (Oct. 25, 2024, from AAS Nova)](https://aasnova.org/2024/10/25/tracing-huge-distant-structures-in-the-universe/)
+* [Tracing Huge, Distant Structures in the Universe (Oct. 25, 2024, from AAS Nova)](https://astron.snu.ac.kr/24181/)
 
 * [Mapping the local cosmic web (May 26, 2021, from PSU)](https://www.psu.edu/news/research/story/mapping-local-cosmic-web/)
   
