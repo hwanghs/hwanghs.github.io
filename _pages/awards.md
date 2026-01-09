@@ -7,7 +7,7 @@ nav_order:
 ---
 * [Academic Award (Korean Astronomical Society, 학술상) (Oct. 15, 2025) [Korean]](https://www.kas.org/notice/view.php?idx=9820)
 
-* [2024 SNU College of Natural Science Excellent Research Award (2024학년도 자연과학대학 연구상) (Sept. 13, 2024) [Korean](https://astron.snu.ac.kr/24178/)
+* [2024 SNU College of Natural Science Excellent Research Award (2024학년도 자연과학대학 연구상) (Sept. 13, 2024) [Korean]](https://astron.snu.ac.kr/24178/)
 
 * [2023 SNU College of Natural Science Excellent Lecture Award (2023학년도 자연과학대학 우수강의상) (Sept. 8, 2023) [Korean]](https://astron.snu.ac.kr/21599/)
 
