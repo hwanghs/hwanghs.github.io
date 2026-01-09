@@ -12,7 +12,7 @@ nav_order:
 
 **Audio/Video Clips**
 
-* [제33회 서울대 자연과학 공개강연 과학 그리고 인공지능"] AI로 풀어가는 우주의 비밀: AI는 42보다 더 나은 답을 줄 수 있을까?｜ (2026.01.09) [[영상]](https://www.youtube.com/watch?v=TbQ-wWx5vgk)
+* [제33회 서울대 자연과학 공개강연 과학 그리고 인공지능"] AI로 풀어가는 우주의 비밀: AI는 42보다 더 나은 답을 줄 수 있을까? (2026.01.09) [[영상]](https://www.youtube.com/watch?v=TbQ-wWx5vgk)
 * [파토의 과학하고 앉아있네] 별헤는사람들 2025년 10월호! 천문학자들과 함께 은하 연구에 동참하자! 모두의 은하연구소. (2025. 10. 03) [영상]](https://www.youtube.com/watch?v=uAT9uf1ibXY)
 * [최욱의 매불쇼] 역대 가장 강력한 외계인의 증거 발견! (2025. 09. 30) [영상]](https://www.youtube.com/watch?v=RCfW-3tMLlA)
 * [파토의 과학하고 앉아있네] 별헤는사람들 2025년 9월호! 국내연구진, 암흑물질만으로 된 은하를 잔뜩 찾아내다! (2025. 09. 05) [영상]](https://www.youtube.com/watch?v=q3lUezSOw5g)
