@@ -6,10 +6,34 @@ nav: true
 nav_order: 2
 ---
 
-**Refereed Publications: 233 in total**  
-**(6 submitted, 18 as first author, 42 as second author, and 167 as co-author)**
+**Refereed Publications: 239 in total**  
+**(10 submitted, 18 as first author, 43 as second author, and 168 as co-author)**
 
 ### Recent Papers:
+
+239\. ODIN: Clustering Properties of Lyα Blobs at z∼2.4 and 3.1, <br>
+&nbsp;&nbsp;&nbsp;Moon, B., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2601.01991](https://ui.adsabs.harvard.edu/abs/2026arXiv260101991M/abstract))
+
+238\. Comparison of MOND and Verlinde's emergent gravity in dwarf spheroidals, <br>
+&nbsp;&nbsp;&nbsp;Yoon, Y., Han, S., <u>Hwang, H. S.</u>, <br>
+&nbsp;&nbsp;&nbsp;2025, PRD, submitted ([arXiv:2601.01715](https://ui.adsabs.harvard.edu/abs/2026arXiv260101715Y/abstract))
+
+237\. The Redshifts from 122 Bands: Comparative Redshift Forecast for Low-Resolution Spectra from SPHEREx and 7-Dimensional Sky Survey (7DS), <br>
+&nbsp;&nbsp;&nbsp;Bae, J., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, A&A, in press ([arXiv:2512.24537](https://ui.adsabs.harvard.edu/abs/2025arXiv251224537B/abstract))
+
+236\. ODIN: A New Lyman Alpha Blob Selection Method, Sample, and Statistical Analysis at z∼3.1, <br>
+&nbsp;&nbsp;&nbsp;Uzsoy, V., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2512.17368](https://ui.adsabs.harvard.edu/abs/2025arXiv251217368M/abstract))
+
+235\. Effect of local environment on Lyα line profile in DESI/ODIN LAEs, <br>
+&nbsp;&nbsp;&nbsp;Uzsoy, V., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.17498](https://ui.adsabs.harvard.edu/abs/2025arXiv251117498U/abstract))
+
+234\. ODIN: Characterizing the Three-dimensional Structure of Two Protocluster Complexes at z = 3.1, <br>
+&nbsp;&nbsp;&nbsp;Ramakrishnan, V., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.11826](https://ui.adsabs.harvard.edu/abs/2025arXiv251111826R/abstract))
 
 233\. Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster, <br>
 &nbsp;&nbsp;&nbsp;Kim, S., et al. (<u>Hwang, H. S.</u>), <br>
@@ -33,7 +57,7 @@ nav_order: 2
 
 228\. A New Collision Avoidance Fiber Assignment Algorithm for Robotic Fiber Positioners in Multi-Object Spectroscopy, <br>
 &nbsp;&nbsp;&nbsp;Kwon, M., <u>Hwang, H. S.</u>, et al., <br>
-&nbsp;&nbsp;&nbsp;2025, JKAS, submitted
+&nbsp;&nbsp;&nbsp;2025, JKAS, in press ([arXiv:2601.02795](https://ui.adsabs.harvard.edu/abs/2026arXiv260102795K/abstract))
 
 227\. Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps, <br>
 &nbsp;&nbsp;&nbsp;Kim, S., <u>Hwang, H. S.</u>, Jeffrey, N., <br>
