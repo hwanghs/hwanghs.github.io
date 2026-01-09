@@ -8,6 +8,12 @@ nav_order: 3
 **외부은하와 우주론 연구실 소개**: 
 * [연구뭐하지?] 가장 오래된 학문이자 가장 최첨단의 학문 - [외부은하와 우주론 연구실](https://www.youtube.com/watch?v=KOD9n36L3ok)
 
+**Dark Galaxies / 암흑 은하**
+
+* [암흑 물질만 있는 은하를 무더기로 발견하다 (July 22, 2025)](https://www.unipress.co.kr/news/articleView.html?idxno=12864)
+ 
+* [Here are the dark galaxies (Oct. 23, 2024 from Epsiloon)](https://www.epsiloon.com/tous-les-numeros/n41/voici_les_galaxies_noires/)
+
 **Large Scale Structures / 우주 거대 구조**
 
 * [Tracing Huge, Distant Structures in the Universe (Oct. 25, 2024, from AAS Nova)](https://aasnova.org/2024/10/25/tracing-huge-distant-structures-in-the-universe/)
@@ -26,15 +32,13 @@ nav_order: 3
 
 * [Slow motions in the cosmic web (Nov. 2, 2017)](https://www.nature.com/articles/s41550-017-0315-x.epdf?shared_access_token=MDA0L1udTImN4D3pNA32itRgN0jAjWel9jnR3ZoTv0MuwOq9QQoOyRK15tC8q4Rp8sYefelff-csKknML0Jt9eLT5LbnNoPkBJdDw2YQjHqs_F0mVMQ4epPbXK2E-MPU-E2uvmJSJ12_HN2KkFjeUSn81guQHBlEaRfDs1O0c78%3D)
 
-**Observational Cosmology**
+**Observational Cosmology / 관측 우주론**
 
 * [Observation indicates that the Accelerated Expansion of the Universe is Driven by a Form of Quintessence! (Aug. 4, 2023 from KIAS)](https://www.kias.re.kr/kias/bbs/B0000029/view.do?nttId=1353&menuNo=406005&pageIndex=1&lang=en)
   
 * [우주를 가속 팽창시키는 암흑에너지는 “제5원소”이다? (2023년 8월 4일, 고등과학원)](https://www.kias.re.kr/kias/bbs/B0000029/view.do?nttId=1353&menuNo=406005&pageIndex=1&lang=ko)
 
-**Galaxy Formation and Evolution**
-
-* [Here are the dark galaxies (Oct. 23, 2024 from Epsiloon)](https://www.epsiloon.com/tous-les-numeros/n41/voici_les_galaxies_noires/)
+**Galaxy Formation and Evolution / 은하의 형성과 진화**
 
 * [시민과 함께 과학 - 은하 분류 프로젝트 (2024년 2월 5일, 고등과학원)](https://www.kias.re.kr/kias/bbs/B0000029/view.do?nttId=1411&menuNo=406005&lang=ko)
   
