@@ -5,9 +5,17 @@ title: Public Outreach / 대중 과학 활동
 nav: false
 nav_order: 
 ---
+**저서**
+
+* [천문학이라는 위로 (2025.09.15)](https://product.kyobobook.co.kr/detail/S000217547614)
+* [대학 지구과학개론 (2024.03.05)](https://product.kyobobook.co.kr/detail/S000212650223)
 
 **Audio/Video Clips**
 
+* [제33회 서울대 자연과학 공개강연 과학 그리고 인공지능"] AI로 풀어가는 우주의 비밀: AI는 42보다 더 나은 답을 줄 수 있을까?｜ (2026.01.09) [[영상]](https://www.youtube.com/watch?v=TbQ-wWx5vgk)
+* [파토의 과학하고 앉아있네] 별헤는사람들 2025년 10월호! 천문학자들과 함께 은하 연구에 동참하자! 모두의 은하연구소. (2025. 10. 03) [영상]](https://www.youtube.com/watch?v=uAT9uf1ibXY)
+* [최욱의 매불쇼] 역대 가장 강력한 외계인의 증거 발견! (2025. 09. 30) [영상]](https://www.youtube.com/watch?v=RCfW-3tMLlA)
+* [파토의 과학하고 앉아있네] 별헤는사람들 2025년 9월호! 국내연구진, 암흑물질만으로 된 은하를 잔뜩 찾아내다! (2025. 09. 05) [영상]](https://www.youtube.com/watch?v=q3lUezSOw5g)
 * [노매드 사이언티스트] 화성 이주, 진짜 가능해? (2025.01.22) [[영상]](https://www.youtube.com/watch?v=MeaBFZbMtjY)
 * [별소리 다 듣겠네] 우주의 탄생!… 빅뱅우주론 vs. 정상우주론 (2023.04.03) [[영상]](https://science.ytn.co.kr/program/view.php?mcd=0082&key=202304031633123731)
 * [K-MOOC] 서울대 소장품 감상하기: 천문학을 중심으로 (2023.02.07) [[영상]](https://www.kmooc.kr/view/search/황호성)
@@ -31,6 +39,9 @@ nav_order:
 
 **Interview**
 
+* [제33회 서울대 자연과학 공개강연 "과학 그리고 인공지능"] [AI로 풀어가는 우주의 비밀: AI는 42보다 더 나은 답을 줄 수 있을까? (2025.12.29)](https://www.youtube.com/watch?v=Tb6SVibP8GA)
+* [지식인초대석 EP.79] [우주에서 실제로 녹음된 천체의 소리 (2025.11.09)](https://www.youtube.com/watch?v=xiZlyIuNdBY)
+* [지식인초대석 EP.78] [스티븐 호킹이 외계인과의 접촉을 ‘재앙’이라고 한 이유 (2025.11.08)](https://www.youtube.com/watch?v=fJ4N68Ja3G8)
 * [서울대학교 자연과학대학 2022년 신임교수 인터뷰] [천문학과 황호성 교수님을 소개합니다! (2022.10.24)](https://science.snu.ac.kr/newsroom/view/2/11/826)
 * [서울대학교 대학신문] [연구만 하는 교수님? 우리는 라켓 든 '스포츠인' (2022.08.28)](http://www.snunews.com/news/articleView.html?idxno=30910)
 
@@ -44,7 +55,7 @@ nav_order:
 **Endorsement for Books**
 
 * 우주여행자를 위한 생존법 (Apr. 10, 2025) [[Korean]](https://product.kyobobook.co.kr/detail/S000216226249)
-* 그동안 몰랐던 별의별 천무학 이야기 (Jan. 3, 2025) [[Korean]](https://product.kyobobook.co.kr/detail/S000215103306)
+* 그동안 몰랐던 별의별 천문학 이야기 (Jan. 3, 2025) [[Korean]](https://product.kyobobook.co.kr/detail/S000215103306)
 * At the Edge of Time (우리 우주의 첫 순간: 빅뱅의 발견부터 암흑물질까지 현대 우주론의 중요한 문제들) (Oct. 5, 2023) [[Korean]](https://product.kyobobook.co.kr/detail/S000209212217)
 * See the Stars in the Cave (동굴에서 별을 보다) (Dec. 20, 2018) [[Korean]](http://www.yes24.com/24/goods/67518613?scode=032&OzSrank=1)
 * Universe seen from the South Pole (남극점에서 본 우주) (Nov. 25, 2019) [[Korean]](http://www.yes24.com/Product/Goods/84183214?OzSrank=1)
@@ -59,10 +70,6 @@ nav_order:
 **Translation**
 
 * [DESI Science Webpage Korean version](https://www.desi.lbl.gov/kr-science/) ([KASI Facebook posting](https://www.facebook.com/kasipr/photos/a.499978350139206/1963428433794183/?type=3&theater), Sept. 17, 2020)
-
-**저서**
-
-* [대학 지구과학개론 (2024.03.05)](https://product.kyobobook.co.kr/detail/S000212650223)
 
 **Other news**
 
