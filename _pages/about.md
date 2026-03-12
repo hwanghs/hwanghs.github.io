@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Associate Professor, Astronomy Program, Department of Physics and Astronomy, Seoul National University<br>
+Professor, Astronomy Program, Department of Physics and Astronomy, Seoul National University<br>
 서울대학교 물리천문학부 천문학전공 교수
 
 * Email : galaxy79@snu.ac.kr
@@ -26,7 +26,8 @@ Associate Professor, Astronomy Program, Department of Physics and Astronomy, Seo
 * [Curriculum Vita](http://astro.snu.ac.kr/~hhwang/cvpubref_HWANG.pdf)
 
 ## Academic Positions:
-* 2021.03 - Present: Associate Professor, Seoul National University/서울대학교, Korea
+* 2021.03 - Present: Professor, Seoul National University/서울대학교, Korea
+* 2021.03 - 2026.02: Associate Professor, Seoul National University/서울대학교, Korea
 * 2024.07 - 2025.07: Visiting Associate Professor, Macquarie University, Australia
 * 2018.12 - 2021.02: Staff Scientist, Korea Astronomy and Space Science Institute (KASI/한국천문연구원), Korea
 * 2014.09 - 2018.12: Research Professor, Korea Institute for Advanced Study (KIAS/고등과학원), Korea 
@@ -45,4 +46,4 @@ Associate Professor, Astronomy Program, Department of Physics and Astronomy, Seo
 [[SNU ExgalCos Team]](https://exgalcos.github.io/)
 [[SNU Astronomy]](https://astron.snu.ac.kr) [[KASI Galaxy Evolution Group]](https://galev.kasi.re.kr/doku.php) [[KIAS Astrophysics Group]](https://astro.kias.re.kr/)
 
-## Last Updated: February 5, 2026
+## Last Updated: March 12, 2026
