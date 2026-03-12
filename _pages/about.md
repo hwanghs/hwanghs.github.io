@@ -26,7 +26,7 @@ Professor, Astronomy Program, Department of Physics and Astronomy, Seoul Nationa
 * [Curriculum Vita](http://astro.snu.ac.kr/~hhwang/cvpubref_HWANG.pdf)
 
 ## Academic Positions:
-* 2021.03 - Present: Professor, Seoul National University/서울대학교, Korea
+* 2026.03 - Present: Professor, Seoul National University/서울대학교, Korea
 * 2021.03 - 2026.02: Associate Professor, Seoul National University/서울대학교, Korea
 * 2024.07 - 2025.07: Visiting Associate Professor, Macquarie University, Australia
 * 2018.12 - 2021.02: Staff Scientist, Korea Astronomy and Space Science Institute (KASI/한국천문연구원), Korea
