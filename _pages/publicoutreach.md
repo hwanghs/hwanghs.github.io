@@ -73,6 +73,7 @@ nav_order:
 
 **Other news**
 
+* '나, 그리고 우주' 특별강연  (2026.02.25) [[기사]](https://www.cppb.go.kr/cppb/596/subview.do;jsessionid=C_U28_pKEjopmw1gFBc7E5LVLFUqv3cQFgGIFIhn.wizard-21-4w5qd?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3BwYiUyRjMzJTJGNjAzNzQ4JTJGYXJ0Y2xWaWV3LmRvJTNG)
 * 제3회 한국과학기자협회-YKAST 포럼: 우주 개척을 위한 대한민국 기술개발의 현재와 미래 - 한국형 우주 망원경 개발 현황 및 전망 (2023.11.02) [[기사]](https://mobile.newsis.com/view.html?ar_id=NISX20231102_0002506772)
 * 젊은 연구자들이 생각하는 국가과학기술 혁신 촉진 방안 (2023.8.25) [[영상]](https://www.youtube.com/watch?v=TlHmekhtmjY)
 * 과학·예술 융복합 전시 프로젝트 'The Origin' 개최 [[기사]](https://www.discoverynews.kr/news/articleView.html?idxno=1029155) (2023년 7월 5일 뉴스)
