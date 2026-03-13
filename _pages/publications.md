@@ -6,66 +6,96 @@ nav: true
 nav_order: 2
 ---
 
-**Refereed Publications: 239 in total**  
-**(10 submitted, 18 as first author, 43 as second author, and 168 as co-author)**
+**Refereed Publications: 246 in total**  
+**(10 submitted, 18 as first author, 43 as second author, and 175 as co-author)**
 
 ### Recent Papers:
 
-239\. ODIN: Clustering Properties of Lyα Blobs at z∼2.4 and 3.1, <br>
+246\. Unveiling the Flat Rotation Curves of Galaxies out to 1Mpc in a Simulated LCDM Universe, <br>
+&nbsp;&nbsp;&nbsp;Jeong, D., (<u>Hwang, H. S.</u>), et al., <br>
+&nbsp;&nbsp;&nbsp;2026, ApJ, submitted
+
+245\. An Enhanced Catalog of Gaia DR3 Galaxy Candidates with Spectroscopic and Machine-Learning Photometric Redshifts, <br>
+&nbsp;&nbsp;&nbsp;Hwang, J., (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2026, JKAS, submitted
+
+244\. ODIN: Spectroscopic Validation of Lyα-Emitting Galaxy Samples with DESI, <br>
+&nbsp;&nbsp;&nbsp;Pinarski, E., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2026, ApJ, submitted ([arXiv:2603.09905](https://ui.adsabs.harvard.edu/abs/2026arXiv260309905P/abstract))
+
+243\. ODIN: Confirmation and 3D Reconstruction of Six Massive Protoclusters at Cosmic Noon, <br>
+&nbsp;&nbsp;&nbsp;Ortiz, A., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2026, ApJ, submitted ([arXiv:2603.09739](https://ui.adsabs.harvard.edu/abs/2026arXiv260309739O/abstract))
+
+242\. Evolution of submillimeter galaxies across cosmic-web environments, <br>
+&nbsp;&nbsp;&nbsp;Kumar, A., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2026, A&A, submitted ([arXiv:2602.11751](https://ui.adsabs.harvard.edu/abs/2026arXiv260211751K/abstract))
+
+241\. ODIN: Clustering Properties of Lyα Blobs at z∼2.4 and 3.1, <br>
 &nbsp;&nbsp;&nbsp;Moon, B., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2601.01991](https://ui.adsabs.harvard.edu/abs/2026arXiv260101991M/abstract))
 
-238\. Comparison of MOND and Verlinde's emergent gravity in dwarf spheroidals, <br>
+240\. Comparison of MOND and Verlinde's emergent gravity in dwarf spheroidals, <br>
 &nbsp;&nbsp;&nbsp;Yoon, Y., Han, S., <u>Hwang, H. S.</u>, <br>
 &nbsp;&nbsp;&nbsp;2025, PRD, submitted ([arXiv:2601.01715](https://ui.adsabs.harvard.edu/abs/2026arXiv260101715Y/abstract))
 
-237\. The Redshifts from 122 Bands: Comparative Redshift Forecast for Low-Resolution Spectra from SPHEREx and 7-Dimensional Sky Survey (7DS), <br>
-&nbsp;&nbsp;&nbsp;Bae, J., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, A&A, in press ([arXiv:2512.24537](https://ui.adsabs.harvard.edu/abs/2025arXiv251224537B/abstract))
-
-236\. ODIN: A New Lyman Alpha Blob Selection Method, Sample, and Statistical Analysis at z∼3.1, <br>
-&nbsp;&nbsp;&nbsp;Uzsoy, V., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2512.17368](https://ui.adsabs.harvard.edu/abs/2025arXiv251217368M/abstract))
-
-235\. Effect of local environment on Lyα line profile in DESI/ODIN LAEs, <br>
+239\. Effect of local environment on Lyα line profile in DESI/ODIN LAEs, <br>
 &nbsp;&nbsp;&nbsp;Uzsoy, V., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.17498](https://ui.adsabs.harvard.edu/abs/2025arXiv251117498U/abstract))
 
-234\. ODIN: Characterizing the Three-dimensional Structure of Two Protocluster Complexes at z = 3.1, <br>
+238\. ODIN: Characterizing the Three-dimensional Structure of Two Protocluster Complexes at z = 3.1, <br>
 &nbsp;&nbsp;&nbsp;Ramakrishnan, V., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.11826](https://ui.adsabs.harvard.edu/abs/2025arXiv251111826R/abstract))
 
-233\. Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster, <br>
+237\. Weak-Lensing Analysis of the Galaxy Cluster Abell 85: Constraints on the Merger Scenarios of Its Southern Subcluster, <br>
 &nbsp;&nbsp;&nbsp;Kim, S., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.02323](https://ui.adsabs.harvard.edu/abs/2025arXiv251102323K/abstract))
 
-232\. Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph, <br>
-&nbsp;&nbsp;&nbsp;Jang, J., Choi, C., <u>Hwang, H. S.</u>, et al., <br>
-&nbsp;&nbsp;&nbsp;2025, JKAS, submitted 
-
-231\. ODIN: Searching for LyC emission from Lyman-$\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields, <br>
+236\. ODIN: Searching for LyC emission from Lyman-$\alpha$ emitters at $z=4.5$ in the E-COSMOS and XMM-LSS fields, <br>
 &nbsp;&nbsp;&nbsp;Seo, E., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, submitted
+&nbsp;&nbsp;&nbsp;2026, ApJ, in press
 
-230\. ODIN: Using multiplicity of Lyman-Alpha Emitters to assess star formation activity in dark matter halos, <br>
-&nbsp;&nbsp;&nbsp;Cerdosino, C., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, A&A, submitted ([arXiv:2511.01981](https://ui.adsabs.harvard.edu/abs/2025arXiv251101981C/abstract))
-
-229\. New classification method of dynamical state of galaxy clusters using Gaussian Mixture Model, <br>
+235\. New classification method of dynamical state of galaxy clusters using Gaussian Mixture Model, <br>
 &nbsp;&nbsp;&nbsp;Kim, H., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, A&A, submitted 
+&nbsp;&nbsp;&nbsp;2026, A&A, in press ([arXiv:2603.10319](https://ui.adsabs.harvard.edu/abs/2026arXiv260310319K/abstract))
+
+234\. K-DRIFT Science Theme: Galaxies in the Faint Universe, <br>
+&nbsp;&nbsp;&nbsp;Byun, W., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;2026, JKAS, in press ([arXiv:2602.08283](https://ui.adsabs.harvard.edu/abs/2026arXiv260208283B/abstract))
+
+### 2026:
+
+233\. A Redshift Survey of the Nearby Galaxy Cluster Abell 2199: No Upturn of the Faint-End Slope of Galaxy Luminosity Function, <br>
+&nbsp;&nbsp;&nbsp;Park, J.-I., Song, H., <u>Hwang, H. S.</u>, <br>
+&nbsp;&nbsp;&nbsp;[2026, JKAS, 59, 33](https://ui.adsabs.harvard.edu/abs/2026JKAS...59...33P/abstract)
+
+232\. Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps, <br>
+&nbsp;&nbsp;&nbsp;Kim, S., <u>Hwang, H. S.</u>, Jeffrey, N., <br>
+&nbsp;&nbsp;&nbsp;[2026, ApJS, 282, 23](https://ui.adsabs.harvard.edu/abs/2026ApJS..282...23K/abstract)
+
+231\. ODIN: A New Lyα Blob Selection Method, Sample, and Statistical Analysis at z ∼ 3.1, <br>
+&nbsp;&nbsp;&nbsp;Moon, B., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;[2026, ApJ, 998, 345](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..345M/abstract)
+
+230\. The Redshifts from 122 Bands: Comparative Redshift Forecast for Low-Resolution Spectra from SPHEREx and 7-Dimensional Sky Survey (7DS), <br>
+&nbsp;&nbsp;&nbsp;Bae, J., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;[2026, A&A, 706, 347](https://ui.adsabs.harvard.edu/abs/2026A%26A...706A.347B/abstract)
+
+229\. Characterization of the commercial spectrograph system for astronomical observations: PIXIS 1300BX Camera and IsoPlane 320A Spectrograph, <br>
+&nbsp;&nbsp;&nbsp;Jang, J., Choi, C., <u>Hwang, H. S.</u>, et al., <br>
+&nbsp;&nbsp;&nbsp;[2026, JKAS, 59, 11](https://ui.adsabs.harvard.edu/abs/2026JKAS...59...11J/abstract)
 
 228\. A New Collision Avoidance Fiber Assignment Algorithm for Robotic Fiber Positioners in Multi-Object Spectroscopy, <br>
 &nbsp;&nbsp;&nbsp;Kwon, M., <u>Hwang, H. S.</u>, et al., <br>
-&nbsp;&nbsp;&nbsp;2025, JKAS, in press ([arXiv:2601.02795](https://ui.adsabs.harvard.edu/abs/2026arXiv260102795K/abstract))
+&nbsp;&nbsp;&nbsp;[2026, JKAS, 59, 1](https://ui.adsabs.harvard.edu/abs/2026JKAS...59....1K/abstract)
 
-227\. Searching for Dark Structures: A Comparison of Weak Lensing Convergence Maps and Lensing-Weighted Galaxy Density Maps, <br>
-&nbsp;&nbsp;&nbsp;Kim, S., <u>Hwang, H. S.</u>, Jeffrey, N., <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, in press ([arXiv:2509.25836](https://ui.adsabs.harvard.edu/abs/2025arXiv250925836K/abstract))
-
-226\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning, <br>
+227\. Revealing Hidden Cosmic Flows through the Zone of Avoidance with Deep Learning, <br>
 &nbsp;&nbsp;&nbsp;Dupuy, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2025, ApJ, in press ([arXiv:2511.03919](https://arxiv.org/abs/2511.03919))
+&nbsp;&nbsp;&nbsp;[2026, ApJ, 997, 59](https://ui.adsabs.harvard.edu/abs/2026ApJ...997...59D/abstract)
+
+226\. ODIN: Using multiplicity of Lyman-Alpha Emitters to assess star formation activity in dark matter halos, <br>
+&nbsp;&nbsp;&nbsp;Cerdosino, C., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;[2026, A&A, 706, 24](https://ui.adsabs.harvard.edu/abs/2026A%26A...706A..24C/abstract)
 
 ### 2025:
 
