@@ -12,6 +12,8 @@ nav_order:
 
 **Audio/Video Clips**
 
+* [서울대학교 샤로잡다] 우주는 정말 끝없이 팽창하기만 할까? (2026.06.18) [[영상]](https://www.youtube.com/watch?v=XL9uCR5SvKk&t=696s)
+* [취미는 과학] 은하, 우리는 왜 그렇게 먼 곳을 볼까? (2026.05.22) [[영상]](https://www.youtube.com/watch?v=bp_05sMh3xw)
 * [제33회 서울대 자연과학 공개강연 과학 그리고 인공지능"] AI로 풀어가는 우주의 비밀: AI는 42보다 더 나은 답을 줄 수 있을까? (2026.01.09) [[영상]](https://www.youtube.com/watch?v=TbQ-wWx5vgk)
 * [파토의 과학하고 앉아있네] 별헤는사람들 2025년 10월호! 천문학자들과 함께 은하 연구에 동참하자! 모두의 은하연구소. (2025. 10. 03) [[영상]](https://www.youtube.com/watch?v=uAT9uf1ibXY)
 * [최욱의 매불쇼] 역대 가장 강력한 외계인의 증거 발견! (2025. 09. 30) [[영상]](https://www.youtube.com/watch?v=RCfW-3tMLlA)
