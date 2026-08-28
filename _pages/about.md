@@ -23,7 +23,7 @@ Professor, Astronomy Program, Department of Physics and Astronomy, Seoul Nationa
 * Office: Rm. 209B at Building #19
 * Telephone : +82-2-880-8150
 * Fax : +82-2-887-1435
-* [Curriculum Vita](http://astro.snu.ac.kr/~hhwang/cvpubref_HWANG.pdf)
+* [Curriculum Vita](https://hwanghs.github.io/cvpubref_HWANG.pdf)
 
 ## Academic Positions:
 * 2026.03 - Present: Professor, Seoul National University/서울대학교, Korea
