@@ -46,4 +46,4 @@ Professor, Astronomy Program, Department of Physics and Astronomy, Seoul Nationa
 [[SNU ExgalCos Team]](https://exgalcos.github.io/)
 [[SNU Astronomy]](https://astron.snu.ac.kr) [[KASI Galaxy Evolution Group]](https://galev.kasi.re.kr/doku.php) [[KIAS Astrophysics Group]](https://astro.kias.re.kr/)
 
-## Last Updated: March 12, 2026
+## Last Updated: August 29, 2026
