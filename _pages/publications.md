@@ -11,73 +11,73 @@ nav_order: 2
 
 ### Recent Papers:
 
-257\. Artificial Intelligence–based Galaxy Morphology Classification and Optimal Model
-Exploration Using Citizen Science Data from Everyone’s Galaxy Research Lab Project, <br>
-&nbsp;&nbsp;&nbsp;Park, H. Y., <u>Hwang, H. S.</u>, et al., <br>
-&nbsp;&nbsp;&nbsp;2026, PKAS, in press
-
-256\. Deep Learning Reconstruction of Dark Matter Distributions in Galaxies from Integral Field Spectroscopy in Simulations, <br>
+257\. Deep Learning Reconstruction of Dark Matter Distributions in Galaxies from Integral Field Spectroscopy in Simulations, <br>
 &nbsp;&nbsp;&nbsp;Ann, B., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;2026, ApJ, submitted
 
-255\. Three-dimensional dark matter mapping in the solar neighbourhood with Gaia Data Release 3 and deep learning, <br>
+256\. Three-dimensional dark matter mapping in the solar neighbourhood with Gaia Data Release 3 and deep learning, <br>
 &nbsp;&nbsp;&nbsp;Kim, Y., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;2026, MNRAS, submitted
 
-254\. Comparing the Nebular and Stellar Dust Attenuation Curves in Nearby Star-Forming Galaxies, <br>
-&nbsp;&nbsp;&nbsp;Lee, J. C., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2026, JKAS, in press ([arXiv:2608.24123](https://ui.adsabs.harvard.edu/abs/2026arXiv260824123L/abstract))
-
-253\. HETDEX: Star Formation Stochasticity Diagram of Lyman Alpha Emitting Galaxies at Cosmic Noon Confirms Three Archetypes, <br>
+255\. HETDEX: Star Formation Stochasticity Diagram of Lyman Alpha Emitting Galaxies at Cosmic Noon Confirms Three Archetypes, <br>
 &nbsp;&nbsp;&nbsp;Firestone, N., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2026, ApJL, submitted ([arXiv:2607.23062](https://ui.adsabs.harvard.edu/abs/2026arXiv260723062F/abstract))
 
-252\. The SPHEREx View of Galaxy Clusters: A Simulation-based Validation of the Forced Photometry Pipeline for Extended Sources, <br>
+254\. The SPHEREx View of Galaxy Clusters: A Simulation-based Validation of the Forced Photometry Pipeline for Extended Sources, <br>
 &nbsp;&nbsp;&nbsp;Bahk, H., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;2026, AJ, submitted ([arXiv:2606.19875](https://ui.adsabs.harvard.edu/abs/2026arXiv260619875B/abstract))
 
-251\. Dark and Luminous Matter in the Coma Cluster: Probing Galaxy Cluster Assembly Through Filaments with Weak Lensing and Multiwavelength Observations, <br>
+253\. Dark and Luminous Matter in the Coma Cluster: Probing Galaxy Cluster Assembly Through Filaments with Weak Lensing and Multiwavelength Observations, <br>
 &nbsp;&nbsp;&nbsp;HyeongHan, K., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2026, A&A, submitted ([arXiv:2606.12523](https://ui.adsabs.harvard.edu/abs/2026arXiv260612523H/abstract))
 
-250\. ODIN: Rest-frame Optical Morphologies and Star Formation Activity of Lyα Emitters at z=2.4, 3.1, and 4.5, <br>
+252\. ODIN: Rest-frame Optical Morphologies and Star Formation Activity of Lyα Emitters at z=2.4, 3.1, and 4.5, <br>
 &nbsp;&nbsp;&nbsp;Im, S., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;2026, ApJ, in press ([arXiv:2605.29344](https://ui.adsabs.harvard.edu/abs/2026arXiv260529344I/abstract))
 
-249\. Unveiling the Flat Rotation Curves of Galaxies out to 1Mpc in a Simulated LCDM Universe, <br>
+251\. Unveiling the Flat Rotation Curves of Galaxies out to 1Mpc in a Simulated LCDM Universe, <br>
 &nbsp;&nbsp;&nbsp;Jeong, D., <u>Hwang, H. S.</u>, et al., <br>
 &nbsp;&nbsp;&nbsp;2026, ApJ, submitted
 
-248\. An Enhanced Catalog of Gaia DR3 Galaxy Candidates with Spectroscopic and Machine-Learning Photometric Redshifts, <br>
-&nbsp;&nbsp;&nbsp;Hwang, J., <u>Hwang, H. S.</u>, <br>
-&nbsp;&nbsp;&nbsp;2026, JKAS, submitted
-
-247\. ODIN: Spectroscopic Validation of Lyα-Emitting Galaxy Samples with DESI, <br>
-&nbsp;&nbsp;&nbsp;Pinarski, E., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2026, ApJ, submitted ([arXiv:2603.09905](https://ui.adsabs.harvard.edu/abs/2026arXiv260309905P/abstract))
-
-246\. ODIN: Confirmation and 3D Reconstruction of Six Massive Protoclusters at Cosmic Noon, <br>
-&nbsp;&nbsp;&nbsp;Ortiz, A., et al. (<u>Hwang, H. S.</u>), <br>
-&nbsp;&nbsp;&nbsp;2026, ApJ, submitted ([arXiv:2603.09739](https://ui.adsabs.harvard.edu/abs/2026arXiv260309739O/abstract))
-
-245\. Evolution of submillimeter galaxies across cosmic-web environments, <br>
+250\. Evolution of submillimeter galaxies across cosmic-web environments, <br>
 &nbsp;&nbsp;&nbsp;Kumar, A., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2026, A&A, submitted ([arXiv:2602.11751](https://ui.adsabs.harvard.edu/abs/2026arXiv260211751K/abstract))
 
-244\. Comparison of MOND and Verlinde's emergent gravity in dwarf spheroidals, <br>
+249\. Comparison of MOND and Verlinde's emergent gravity in dwarf spheroidals, <br>
 &nbsp;&nbsp;&nbsp;Yoon, Y., Han, S., <u>Hwang, H. S.</u>, <br>
 &nbsp;&nbsp;&nbsp;2025, PRD, submitted ([arXiv:2601.01715](https://ui.adsabs.harvard.edu/abs/2026arXiv260101715Y/abstract))
 
-243\. Effect of local environment on Lyα line profile in DESI/ODIN LAEs, <br>
+248\. Effect of local environment on Lyα line profile in DESI/ODIN LAEs, <br>
 &nbsp;&nbsp;&nbsp;Uzsoy, V., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.17498](https://ui.adsabs.harvard.edu/abs/2025arXiv251117498U/abstract))
 
-242\. ODIN: Characterizing the Three-dimensional Structure of Two Protocluster Complexes at z = 3.1, <br>
+247\. ODIN: Characterizing the Three-dimensional Structure of Two Protocluster Complexes at z = 3.1, <br>
 &nbsp;&nbsp;&nbsp;Ramakrishnan, V., et al. (<u>Hwang, H. S.</u>), <br>
 &nbsp;&nbsp;&nbsp;2025, ApJ, submitted ([arXiv:2511.11826](https://ui.adsabs.harvard.edu/abs/2025arXiv251111826R/abstract))
 
 
 ### 2026:
+
+246\. Artificial Intelligence–based Galaxy Morphology Classification and Optimal Model
+Exploration Using Citizen Science Data from Everyone’s Galaxy Research Lab Project, <br>
+&nbsp;&nbsp;&nbsp;Park, H. Y., <u>Hwang, H. S.</u>, et al., <br>
+&nbsp;&nbsp;&nbsp;[2026, PKAS, 41, 57](http://dx.doi.org/10.5303/PKAS.2026.41.2.057)
+
+245\. An Enhanced Catalog of Gaia DR3 Galaxy Candidates with Spectroscopic and Machine-Learning Photometric Redshifts, <br>
+&nbsp;&nbsp;&nbsp;Hwang, J., <u>Hwang, H. S.</u>, <br>
+&nbsp;&nbsp;&nbsp;[2026, JKAS, 59, 391](https://ui.adsabs.harvard.edu/abs/2026JKAS...59..391H/abstract)
+
+244\. Comparing the Nebular and Stellar Dust Attenuation Curves in Nearby Star-Forming Galaxies, <br>
+&nbsp;&nbsp;&nbsp;Lee, J. C., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;[2026, JKAS, 59, 379](https://ui.adsabs.harvard.edu/abs/2026JKAS...59..379L/abstract)
+
+243\. ODIN: Spectroscopic Validation of Lyα-Emitting Galaxy Samples with DESI, <br>
+&nbsp;&nbsp;&nbsp;Pinarski, E., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;[2026, ApJ, 1008, 116](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008..116P/abstract)
+
+242\. ODIN: Confirmation and 3D Reconstruction of Six Massive Protoclusters at Cosmic Noon, <br>
+&nbsp;&nbsp;&nbsp;Ortiz, A., et al. (<u>Hwang, H. S.</u>), <br>
+&nbsp;&nbsp;&nbsp;[2026, ApJ, 1008, 85](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008...85O/abstract)
 
 241\. Constructing a Mock Galaxy Catalog for the All-sky Spectroscopic Survey of Nearby Galaxies (A-SPEC) Using the Machine-assisted Semi-Simulation Model, <br>
 &nbsp;&nbsp;&nbsp;Kim, D., et al. (<u>Hwang, H. S.</u>), <br>
